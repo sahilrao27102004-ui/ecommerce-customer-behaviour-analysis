@@ -43,7 +43,7 @@ The objective is to identify sales trends, understand customer behaviour, evalua
 - UPI was the most frequently used payment method.
 
 ## Power BI Dashboard
-
+![Power BI Dashboard](dashboard_preview.png)
 The interactive dashboard includes:
 
 - Total Orders
