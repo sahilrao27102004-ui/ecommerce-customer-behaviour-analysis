@@ -1,0 +1,17 @@
+Table: ecommerce_orders (1000 rows)
+order_id INT PK
+order_date DATETIME
+customer_id INT
+gender VARCHAR(10)
+age TINYINT UNSIGNED
+city VARCHAR(40)
+product_category VARCHAR(30)
+product_name VARCHAR(60)
+quantity TINYINT UNSIGNED
+unit_price DECIMAL(10,2)
+discount_pct TINYINT UNSIGNED
+payment_method VARCHAR(30)
+device_type VARCHAR(15)
+order_status VARCHAR(15)
+
+CSV header order matches the SQL INSERT column order exactly.

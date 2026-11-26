@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,gender,age,city,product_category,product_name,quantity,unit_price,discount_pct,payment_method,device_type,order_status,gross_amount,net_amount
+1,2025-07-09 02:32:00,1207,Other,36,Jaipur,Electronics,Wireless Earbuds,1,1499.0,15,Debit Card,Mobile,Delivered,1499.0,1274.1499999999999
+2,2025-11-22 14:45:00,1211,Other,27,Jaipur,Beauty,Face Wash,1,249.0,10,Credit Card,Desktop,Delivered,249.0,224.1
+3,2025-05-18 10:54:00,1134,Male,23,Bengaluru,Home,Storage Box,1,499.0,20,Credit Card,Mobile,Delivered,499.0,399.20000000000005
+4,2025-06-22 00:31:00,1116,Male,60,Mumbai,Fashion,Jacket,2,1899.0,15,Debit Card,Mobile,Delivered,3798.0,3228.2999999999997
+5,2025-05-22 17:00:00,1091,Male,46,Chandigarh,Home,Desk Lamp,1,699.0,20,Net Banking,Mobile,Delivered,699.0,559.2
+6,2025-09-01 20:45:00,1185,Female,50,Lucknow,Beauty,Sunscreen,2,499.0,5,Cash on Delivery,Desktop,Delivered,998.0,948.0999999999999
+7,2025-06-06 21:37:00,1024,Female,35,Hyderabad,Home,Bedsheet,1,899.0,5,Debit Card,Desktop,Delivered,899.0,854.05
+8,2025-05-19 09:16:00,1089,Male,45,Rohtak,Beauty,Shampoo,1,299.0,15,Credit Card,Mobile,Delivered,299.0,254.15
+9,2025-05-22 23:37:00,1081,Female,33,Hyderabad,Electronics,Smart Watch,1,2499.0,15,Net Banking,Tablet,Delivered,2499.0,2124.15
+10,2025-06-04 00:45:00,1026,Female,40,Jaipur,Fashion,Sneakers,1,2199.0,5,Net Banking,Mobile,Delivered,2199.0,2089.0499999999997
+11,2025-11-23 15:06:00,1250,Male,37,Lucknow,Electronics,Bluetooth Speaker,2,1799.0,5,UPI,Tablet,Delivered,3598.0,3418.1
+12,2025-05-10 15:07:00,1123,Female,28,Hyderabad,Beauty,Shampoo,1,299.0,0,UPI,Desktop,Delivered,299.0,299.0
+13,2025-06-05 02:15:00,1148,Male,29,Bengaluru,Electronics,Smart Watch,1,2499.0,20,UPI,Tablet,Delivered,2499.0,1999.2
+14,2025-08-19 14:19:00,1156,Female,39,Mumbai,Books,Data Analytics,2,699.0,15,Net Banking,Desktop,Delivered,1398.0,1188.3
+15,2025-11-17 06:16:00,1159,Other,52,Pune,Electronics,Wireless Earbuds,3,1499.0,5,UPI,Mobile,Delivered,4497.0,4272.15
+16,2025-11-01 15:18:00,1142,Other,27,Bengaluru,Electronics,Smart Watch,1,2499.0,15,UPI,Mobile,Delivered,2499.0,2124.15
+17,2025-11-17 18:42:00,1073,Other,53,Jaipur,Beauty,Face Wash,2,249.0,10,Credit Card,Desktop,Delivered,498.0,448.2
+18,2025-01-31 05:50:00,1058,Other,18,Lucknow,Fashion,Sneakers,2,2199.0,0,Debit Card,Tablet,Delivered,4398.0,4398.0
+19,2025-07-26 08:32:00,1146,Female,53,Bengaluru,Home,Storage Box,1,499.0,10,Net Banking,Desktop,Delivered,499.0,449.1
+20,2025-05-09 00:05:00,1154,Female,37,Jaipur,Electronics,Power Bank,2,999.0,20,Credit Card,Tablet,Delivered,1998.0,1598.4
+21,2025-10-23 01:48:00,1148,Male,29,Bengaluru,Books,Python Basics,4,499.0,10,Credit Card,Desktop,Delivered,1996.0,1796.4
+22,2025-11-22 15:05:00,1114,Male,60,Pune,Home,Bedsheet,4,899.0,15,Cash on Delivery,Desktop,Delivered,3596.0,3056.6
+23,2025-05-28 21:25:00,1083,Male,60,Bengaluru,Electronics,Smart Watch,1,2499.0,15,Net Banking,Mobile,Delivered,2499.0,2124.15
+24,2025-09-21 00:42:00,1081,Female,33,Hyderabad,Home,Desk Lamp,1,699.0,15,Net Banking,Desktop,Delivered,699.0,594.15
+25,2025-11-17 14:48:00,1049,Other,25,Chandigarh,Books,Business Strategy,2,599.0,15,UPI,Mobile,Delivered,1198.0,1018.3
+26,2025-03-04 00:40:00,1034,Female,35,Gurugram,Home,Storage Box,3,499.0,15,Net Banking,Mobile,Delivered,1497.0,1272.45
+27,2025-04-26 03:29:00,1080,Other,54,Lucknow,Books,Python Basics,2,499.0,0,UPI,Tablet,Delivered,998.0,998.0
+28,2025-08-30 07:29:00,1128,Female,25,Gurugram,Home,Desk Lamp,1,699.0,15,Net Banking,Mobile,Delivered,699.0,594.15
+29,2025-08-01 10:59:00,1236,Female,32,Gurugram,Books,Data Analytics,3,699.0,10,Net Banking,Desktop,Delivered,2097.0,1887.3
+30,2025-10-03 15:22:00,1073,Other,53,Jaipur,Home,Storage Box,3,499.0,15,Debit Card,Tablet,Delivered,1497.0,1272.45
+31,2025-10-20 12:14:00,1097,Male,42,Mumbai,Beauty,Shampoo,3,299.0,5,Cash on Delivery,Mobile,Delivered,897.0,852.15
+32,2025-09-11 01:08:00,1122,Male,33,Pune,Beauty,Sunscreen,4,499.0,5,Net Banking,Tablet,Delivered,1996.0,1896.1999999999998
+33,2025-01-08 23:09:00,1026,Female,40,Jaipur,Beauty,Face Wash,1,249.0,15,Cash on Delivery,Tablet,Returned,249.0,211.65
+34,2025-11-29 02:54:00,1020,Female,54,Jaipur,Beauty,Shampoo,1,299.0,15,Debit Card,Tablet,Delivered,299.0,254.15
+35,2025-11-13 02:15:00,1098,Female,36,Bengaluru,Home,Storage Box,3,499.0,0,Debit Card,Mobile,Delivered,1497.0,1497.0
+36,2025-01-15 01:20:00,1112,Other,55,Lucknow,Electronics,Wireless Earbuds,1,1499.0,10,UPI,Desktop,Delivered,1499.0,1349.1000000000001
+37,2025-04-03 05:11:00,1111,Other,23,Bengaluru,Fashion,Jeans,1,1299.0,20,UPI,Tablet,Delivered,1299.0,1039.2
+38,2025-04-29 14:40:00,1159,Other,52,Pune,Fashion,Jacket,3,1899.0,5,Debit Card,Desktop,Delivered,5697.0,5412.15
+39,2025-02-07 14:22:00,1003,Male,26,Gurugram,Beauty,Shampoo,2,299.0,5,Net Banking,Desktop,Delivered,598.0,568.1
+40,2025-07-16 15:06:00,1109,Male,54,Jaipur,Home,Storage Box,3,499.0,5,Credit Card,Desktop,Delivered,1497.0,1422.1499999999999
+41,2025-05-21 00:36:00,1148,Male,29,Bengaluru,Home,Desk Lamp,1,699.0,15,UPI,Tablet,Delivered,699.0,594.15
+42,2025-04-23 20:12:00,1214,Female,21,Jaipur,Home,Bedsheet,2,899.0,10,Net Banking,Desktop,Delivered,1798.0,1618.2
+43,2025-06-08 14:02:00,1185,Female,50,Lucknow,Fashion,T-Shirt,3,599.0,0,Net Banking,Desktop,Delivered,1797.0,1797.0
+44,2025-04-13 04:50:00,1024,Female,35,Hyderabad,Home,Desk Lamp,2,699.0,5,Net Banking,Desktop,Delivered,1398.0,1328.1
+45,2025-06-01 23:55:00,1234,Male,48,Delhi,Home,Bedsheet,1,899.0,15,Debit Card,Mobile,Delivered,899.0,764.15
+46,2025-10-13 11:05:00,1020,Female,54,Jaipur,Fashion,Jeans,3,1299.0,15,Cash on Delivery,Mobile,Delivered,3897.0,3312.45
+47,2025-10-27 12:52:00,1032,Other,38,Delhi,Beauty,Shampoo,2,299.0,10,Debit Card,Mobile,Delivered,598.0,538.2
+48,2025-11-28 02:40:00,1121,Female,26,Pune,Electronics,Bluetooth Speaker,3,1799.0,5,Cash on Delivery,Tablet,Delivered,5397.0,5127.15
+49,2025-06-05 15:07:00,1105,Other,51,Rohtak,Electronics,Smart Watch,1,2499.0,0,UPI,Mobile,Delivered,2499.0,2499.0
+50,2025-08-03 18:47:00,1035,Male,54,Pune,Beauty,Sunscreen,1,499.0,20,Credit Card,Desktop,Delivered,499.0,399.20000000000005
+51,2025-01-17 22:23:00,1214,Female,21,Jaipur,Beauty,Sunscreen,3,499.0,10,Credit Card,Desktop,Delivered,1497.0,1347.3
+52,2025-10-06 20:22:00,1061,Male,21,Jaipur,Home,Mixer Grinder,4,2899.0,10,UPI,Desktop,Delivered,11596.0,10436.4
+53,2025-11-25 20:38:00,1248,Other,30,Gurugram,Electronics,Power Bank,1,999.0,5,UPI,Mobile,Delivered,999.0,949.05
+54,2025-04-17 18:13:00,1063,Other,49,Gurugram,Fashion,Jeans,1,1299.0,20,Credit Card,Desktop,Delivered,1299.0,1039.2
+55,2025-03-08 17:16:00,1202,Female,53,Hyderabad,Books,Python Basics,1,499.0,5,Credit Card,Mobile,Delivered,499.0,474.04999999999995
+56,2025-10-29 10:01:00,1007,Male,50,Lucknow,Fashion,T-Shirt,1,599.0,5,Credit Card,Desktop,Delivered,599.0,569.05
+57,2025-08-18 11:32:00,1190,Other,22,Hyderabad,Beauty,Face Wash,2,249.0,15,Net Banking,Mobile,Delivered,498.0,423.3
+58,2025-06-04 14:41:00,1057,Female,28,Chandigarh,Books,Python Basics,2,499.0,20,UPI,Mobile,Returned,998.0,798.4000000000001
+59,2025-08-16 02:57:00,1217,Female,48,Delhi,Beauty,Sunscreen,2,499.0,15,UPI,Desktop,Delivered,998.0,848.3
+60,2025-10-08 22:20:00,1017,Male,47,Chandigarh,Fashion,Sneakers,2,2199.0,20,Cash on Delivery,Tablet,Delivered,4398.0,3518.4
+61,2025-11-30 17:46:00,1117,Female,38,Gurugram,Books,Fiction Novel,1,299.0,0,Credit Card,Desktop,Delivered,299.0,299.0
+62,2025-08-01 23:06:00,1059,Female,49,Delhi,Beauty,Shampoo,2,299.0,15,Debit Card,Desktop,Delivered,598.0,508.3
+63,2025-02-04 02:53:00,1066,Male,34,Chandigarh,Home,Bedsheet,2,899.0,15,UPI,Mobile,Delivered,1798.0,1528.3
+64,2025-10-15 17:21:00,1191,Female,58,Lucknow,Home,Bedsheet,2,899.0,20,UPI,Desktop,Delivered,1798.0,1438.4
+65,2025-06-09 11:06:00,1171,Female,60,Gurugram,Beauty,Face Wash,4,249.0,20,Net Banking,Tablet,Delivered,996.0,796.8000000000001
+66,2025-10-12 11:07:00,1169,Female,45,Gurugram,Beauty,Moisturizer,3,399.0,10,Debit Card,Tablet,Delivered,1197.0,1077.3
+67,2025-01-15 05:17:00,1110,Other,56,Delhi,Books,Python Basics,2,499.0,10,Debit Card,Desktop,Delivered,998.0,898.2
+68,2025-02-16 23:33:00,1047,Other,47,Chandigarh,Fashion,Jacket,1,1899.0,0,Credit Card,Desktop,Delivered,1899.0,1899.0
+69,2025-10-18 19:05:00,1088,Male,52,Hyderabad,Fashion,Sneakers,1,2199.0,10,UPI,Mobile,Delivered,2199.0,1979.1000000000001
+70,2025-09-06 19:28:00,1159,Other,52,Pune,Electronics,Wireless Earbuds,1,1499.0,15,Cash on Delivery,Desktop,Delivered,1499.0,1274.1499999999999
+71,2025-10-31 15:33:00,1132,Other,58,Mumbai,Electronics,Bluetooth Speaker,1,1799.0,10,Debit Card,Mobile,Delivered,1799.0,1619.1000000000001
+72,2025-03-12 08:18:00,1154,Female,37,Jaipur,Electronics,Wireless Earbuds,1,1499.0,5,Debit Card,Mobile,Delivered,1499.0,1424.05
+73,2025-04-28 16:35:00,1192,Male,42,Hyderabad,Beauty,Moisturizer,1,399.0,20,Debit Card,Mobile,Delivered,399.0,319.20000000000005
+74,2025-06-10 18:27:00,1190,Other,22,Hyderabad,Electronics,Power Bank,1,999.0,0,Net Banking,Desktop,Delivered,999.0,999.0
+75,2025-03-29 19:29:00,1107,Male,22,Lucknow,Home,Mixer Grinder,1,2899.0,10,Debit Card,Mobile,Delivered,2899.0,2609.1
+76,2025-02-10 12:55:00,1028,Other,58,Rohtak,Fashion,Jacket,2,1899.0,20,Debit Card,Tablet,Delivered,3798.0,3038.4
+77,2025-09-29 16:12:00,1086,Male,43,Pune,Fashion,T-Shirt,1,599.0,0,Debit Card,Desktop,Delivered,599.0,599.0
+78,2025-04-12 05:38:00,1210,Male,32,Bengaluru,Fashion,Jeans,1,1299.0,10,Credit Card,Tablet,Delivered,1299.0,1169.1000000000001
+79,2025-08-18 21:59:00,1244,Other,25,Rohtak,Beauty,Sunscreen,2,499.0,20,Net Banking,Tablet,Delivered,998.0,798.4000000000001
+80,2025-08-29 14:40:00,1160,Male,25,Mumbai,Home,Desk Lamp,1,699.0,0,Debit Card,Desktop,Delivered,699.0,699.0
+81,2025-01-20 01:23:00,1091,Male,46,Chandigarh,Books,Python Basics,1,499.0,15,Debit Card,Mobile,Delivered,499.0,424.15
+82,2025-01-22 14:58:00,1219,Female,52,Chandigarh,Electronics,Power Bank,1,999.0,20,Net Banking,Tablet,Delivered,999.0,799.2
+83,2025-02-22 10:45:00,1155,Male,19,Jaipur,Beauty,Moisturizer,4,399.0,15,UPI,Tablet,Delivered,1596.0,1356.6
+84,2025-09-25 19:10:00,1011,Other,35,Delhi,Fashion,Jacket,4,1899.0,20,Debit Card,Desktop,Cancelled,7596.0,6076.8
+85,2025-11-20 20:21:00,1100,Male,30,Mumbai,Beauty,Shampoo,2,299.0,0,UPI,Desktop,Delivered,598.0,598.0
+86,2025-03-18 10:05:00,1174,Female,43,Mumbai,Beauty,Shampoo,1,299.0,20,Net Banking,Tablet,Delivered,299.0,239.20000000000002
+87,2025-06-08 17:24:00,1090,Female,47,Jaipur,Home,Storage Box,1,499.0,0,Debit Card,Mobile,Delivered,499.0,499.0
+88,2025-09-18 11:01:00,1213,Female,52,Hyderabad,Books,Python Basics,2,499.0,15,Debit Card,Desktop,Delivered,998.0,848.3
+89,2025-03-21 02:18:00,1055,Other,37,Chandigarh,Home,Storage Box,1,499.0,5,UPI,Tablet,Delivered,499.0,474.04999999999995
+90,2025-03-09 19:24:00,1214,Female,21,Jaipur,Books,Python Basics,2,499.0,20,Credit Card,Mobile,Delivered,998.0,798.4000000000001
+91,2025-07-30 11:43:00,1178,Other,37,Bengaluru,Books,Data Analytics,2,699.0,0,Credit Card,Desktop,Delivered,1398.0,1398.0
+92,2025-08-29 06:23:00,1193,Female,33,Rohtak,Beauty,Moisturizer,1,399.0,10,Net Banking,Desktop,Delivered,399.0,359.1
+93,2025-11-06 04:55:00,1073,Other,53,Jaipur,Beauty,Sunscreen,4,499.0,5,Debit Card,Mobile,Delivered,1996.0,1896.1999999999998
+94,2025-03-05 09:05:00,1224,Other,28,Hyderabad,Home,Mixer Grinder,2,2899.0,20,Credit Card,Desktop,Delivered,5798.0,4638.400000000001
+95,2025-08-19 11:59:00,1132,Other,58,Mumbai,Fashion,Jacket,1,1899.0,5,UPI,Desktop,Delivered,1899.0,1804.05
+96,2025-07-11 07:01:00,1129,Other,53,Rohtak,Home,Bedsheet,1,899.0,0,Debit Card,Mobile,Delivered,899.0,899.0
+97,2025-08-30 22:53:00,1167,Other,45,Delhi,Home,Bedsheet,1,899.0,10,Credit Card,Tablet,Delivered,899.0,809.1
+98,2025-03-18 17:46:00,1158,Other,50,Bengaluru,Electronics,Wireless Earbuds,1,1499.0,5,Net Banking,Tablet,Delivered,1499.0,1424.05
+99,2025-05-03 13:40:00,1199,Female,60,Chandigarh,Home,Bedsheet,1,899.0,0,Net Banking,Desktop,Delivered,899.0,899.0
+100,2025-05-04 22:09:00,1215,Female,42,Lucknow,Beauty,Face Wash,2,249.0,20,Debit Card,Desktop,Delivered,498.0,398.40000000000003
+101,2025-09-26 11:04:00,1091,Male,46,Chandigarh,Fashion,Jacket,1,1899.0,0,Net Banking,Tablet,Delivered,1899.0,1899.0
+102,2025-01-23 20:24:00,1130,Female,36,Lucknow,Books,Python Basics,1,499.0,15,Debit Card,Desktop,Delivered,499.0,424.15
+103,2025-10-25 23:48:00,1092,Male,21,Chandigarh,Electronics,Bluetooth Speaker,1,1799.0,0,Debit Card,Mobile,Delivered,1799.0,1799.0
+104,2025-09-03 20:11:00,1140,Other,27,Chandigarh,Home,Bedsheet,3,899.0,15,Credit Card,Mobile,Delivered,2697.0,2292.45
+105,2025-04-13 01:20:00,1242,Other,34,Pune,Beauty,Face Wash,1,249.0,0,Debit Card,Tablet,Delivered,249.0,249.0
+106,2025-05-27 11:55:00,1209,Other,23,Rohtak,Books,Fiction Novel,1,299.0,5,UPI,Tablet,Delivered,299.0,284.05
+107,2025-07-17 10:11:00,1032,Other,38,Delhi,Home,Storage Box,3,499.0,15,Cash on Delivery,Tablet,Delivered,1497.0,1272.45
+108,2025-02-10 13:38:00,1237,Other,20,Delhi,Books,Business Strategy,2,599.0,15,Credit Card,Tablet,Delivered,1198.0,1018.3
+109,2025-08-17 19:45:00,1027,Other,35,Gurugram,Electronics,Bluetooth Speaker,2,1799.0,10,Cash on Delivery,Mobile,Delivered,3598.0,3238.2000000000003
+110,2025-11-11 13:17:00,1090,Female,47,Jaipur,Beauty,Face Wash,2,249.0,10,UPI,Mobile,Delivered,498.0,448.2
+111,2025-11-08 21:50:00,1104,Male,55,Hyderabad,Home,Bedsheet,4,899.0,5,Cash on Delivery,Mobile,Delivered,3596.0,3416.2
+112,2025-01-17 19:09:00,1061,Male,21,Jaipur,Home,Desk Lamp,1,699.0,20,Cash on Delivery,Desktop,Delivered,699.0,559.2
+113,2025-06-10 20:17:00,1196,Other,51,Hyderabad,Electronics,Smart Watch,1,2499.0,15,Credit Card,Mobile,Delivered,2499.0,2124.15
+114,2025-05-15 08:45:00,1048,Female,53,Delhi,Beauty,Sunscreen,3,499.0,0,Cash on Delivery,Mobile,Returned,1497.0,1497.0
+115,2025-08-20 05:57:00,1074,Other,32,Delhi,Beauty,Moisturizer,1,399.0,0,Cash on Delivery,Mobile,Delivered,399.0,399.0
+116,2025-10-05 09:57:00,1248,Other,30,Gurugram,Home,Desk Lamp,2,699.0,20,Debit Card,Mobile,Delivered,1398.0,1118.4
+117,2025-04-13 04:15:00,1238,Male,30,Delhi,Fashion,Sneakers,1,2199.0,0,Cash on Delivery,Mobile,Delivered,2199.0,2199.0
+118,2025-03-08 19:56:00,1147,Other,27,Jaipur,Home,Storage Box,2,499.0,20,UPI,Mobile,Delivered,998.0,798.4000000000001
+119,2025-02-07 04:20:00,1184,Female,28,Gurugram,Beauty,Sunscreen,2,499.0,20,UPI,Desktop,Delivered,998.0,798.4000000000001
+120,2025-11-24 18:11:00,1133,Other,49,Mumbai,Home,Bedsheet,3,899.0,20,Credit Card,Desktop,Delivered,2697.0,2157.6
+121,2025-03-26 05:20:00,1223,Female,60,Bengaluru,Electronics,Wireless Earbuds,1,1499.0,10,Credit Card,Desktop,Cancelled,1499.0,1349.1000000000001
+122,2025-05-21 04:40:00,1133,Other,49,Mumbai,Home,Mixer Grinder,1,2899.0,20,Debit Card,Tablet,Delivered,2899.0,2319.2000000000003
+123,2025-11-06 10:53:00,1129,Other,53,Rohtak,Fashion,Jeans,1,1299.0,20,Net Banking,Mobile,Delivered,1299.0,1039.2
+124,2025-05-16 20:13:00,1008,Male,53,Jaipur,Electronics,Wireless Earbuds,3,1499.0,20,Net Banking,Desktop,Delivered,4497.0,3597.6000000000004
+125,2025-09-05 07:51:00,1008,Male,53,Jaipur,Beauty,Shampoo,2,299.0,10,Cash on Delivery,Desktop,Delivered,598.0,538.2
+126,2025-08-26 06:21:00,1177,Other,29,Lucknow,Electronics,Smart Watch,1,2499.0,15,Net Banking,Mobile,Delivered,2499.0,2124.15
+127,2025-07-09 16:35:00,1184,Female,28,Gurugram,Home,Desk Lamp,4,699.0,5,UPI,Desktop,Delivered,2796.0,2656.2
+128,2025-01-26 09:24:00,1032,Other,38,Delhi,Home,Storage Box,1,499.0,0,Net Banking,Desktop,Delivered,499.0,499.0
+129,2025-04-08 05:31:00,1222,Female,19,Bengaluru,Fashion,Sneakers,3,2199.0,10,Net Banking,Desktop,Delivered,6597.0,5937.3
+130,2025-09-16 14:15:00,1079,Male,52,Rohtak,Beauty,Face Wash,1,249.0,15,Credit Card,Tablet,Delivered,249.0,211.65
+131,2025-05-27 17:00:00,1013,Female,27,Jaipur,Home,Storage Box,2,499.0,15,UPI,Desktop,Delivered,998.0,848.3
+132,2025-01-27 18:35:00,1068,Other,30,Mumbai,Home,Storage Box,1,499.0,15,Credit Card,Desktop,Delivered,499.0,424.15
+133,2025-11-16 21:39:00,1019,Other,36,Lucknow,Beauty,Sunscreen,2,499.0,10,UPI,Mobile,Returned,998.0,898.2
+134,2025-03-15 06:38:00,1101,Male,21,Lucknow,Home,Desk Lamp,2,699.0,10,Net Banking,Desktop,Delivered,1398.0,1258.2
+135,2025-09-23 14:09:00,1012,Male,45,Pune,Electronics,Smart Watch,2,2499.0,15,Net Banking,Tablet,Delivered,4998.0,4248.3
+136,2025-06-03 18:21:00,1239,Other,27,Jaipur,Books,Business Strategy,1,599.0,20,Net Banking,Tablet,Delivered,599.0,479.20000000000005
+137,2025-07-08 10:43:00,1182,Female,46,Hyderabad,Books,Business Strategy,1,599.0,0,UPI,Desktop,Delivered,599.0,599.0
+138,2025-10-23 07:46:00,1204,Female,33,Mumbai,Electronics,Power Bank,1,999.0,20,UPI,Tablet,Delivered,999.0,799.2
+139,2025-01-17 18:44:00,1135,Female,20,Delhi,Books,Fiction Novel,1,299.0,5,UPI,Mobile,Delivered,299.0,284.05
+140,2025-07-30 16:49:00,1081,Female,33,Hyderabad,Beauty,Moisturizer,1,399.0,5,Net Banking,Desktop,Delivered,399.0,379.04999999999995
+141,2025-06-16 21:30:00,1189,Male,33,Hyderabad,Electronics,Smart Watch,1,2499.0,20,Net Banking,Desktop,Delivered,2499.0,1999.2
+142,2025-11-09 15:12:00,1045,Other,45,Lucknow,Beauty,Shampoo,1,299.0,10,Credit Card,Desktop,Delivered,299.0,269.1
+143,2025-06-12 15:22:00,1058,Other,18,Lucknow,Home,Desk Lamp,2,699.0,15,Net Banking,Tablet,Delivered,1398.0,1188.3
+144,2025-06-26 04:18:00,1032,Other,38,Delhi,Books,Fiction Novel,3,299.0,15,UPI,Desktop,Cancelled,897.0,762.4499999999999
+145,2025-04-20 06:52:00,1021,Other,22,Delhi,Home,Storage Box,2,499.0,15,Net Banking,Desktop,Cancelled,998.0,848.3
+146,2025-05-03 07:03:00,1179,Other,18,Mumbai,Home,Bedsheet,1,899.0,20,Net Banking,Mobile,Delivered,899.0,719.2
+147,2025-02-21 21:49:00,1014,Female,24,Gurugram,Electronics,Power Bank,1,999.0,15,Credit Card,Mobile,Returned,999.0,849.15
+148,2025-09-02 20:12:00,1238,Male,30,Delhi,Fashion,Jacket,2,1899.0,15,Debit Card,Desktop,Delivered,3798.0,3228.2999999999997
+149,2025-03-31 13:56:00,1016,Female,56,Mumbai,Electronics,Smart Watch,1,2499.0,0,Credit Card,Mobile,Returned,2499.0,2499.0
+150,2025-01-20 00:19:00,1102,Other,52,Delhi,Beauty,Moisturizer,3,399.0,10,Net Banking,Tablet,Delivered,1197.0,1077.3
+151,2025-09-26 15:56:00,1086,Male,43,Pune,Home,Storage Box,4,499.0,20,Credit Card,Tablet,Delivered,1996.0,1596.8000000000002
+152,2025-11-28 08:45:00,1050,Female,59,Pune,Electronics,Bluetooth Speaker,1,1799.0,15,Credit Card,Mobile,Delivered,1799.0,1529.1499999999999
+153,2025-08-07 16:20:00,1203,Male,48,Hyderabad,Home,Bedsheet,1,899.0,15,UPI,Desktop,Delivered,899.0,764.15
+154,2025-01-04 08:24:00,1048,Female,53,Delhi,Fashion,Jacket,1,1899.0,5,Credit Card,Desktop,Delivered,1899.0,1804.05
+155,2025-01-06 08:41:00,1245,Female,24,Lucknow,Home,Desk Lamp,2,699.0,20,Debit Card,Tablet,Delivered,1398.0,1118.4
+156,2025-09-15 22:49:00,1171,Female,60,Gurugram,Electronics,Power Bank,1,999.0,15,Debit Card,Tablet,Delivered,999.0,849.15
+157,2025-03-10 15:09:00,1235,Other,52,Delhi,Home,Desk Lamp,2,699.0,5,Cash on Delivery,Tablet,Returned,1398.0,1328.1
+158,2025-05-07 21:48:00,1096,Male,28,Bengaluru,Beauty,Sunscreen,2,499.0,5,Net Banking,Mobile,Delivered,998.0,948.0999999999999
+159,2025-02-01 17:57:00,1136,Female,26,Mumbai,Home,Mixer Grinder,3,2899.0,0,Net Banking,Mobile,Delivered,8697.0,8697.0
+160,2025-03-01 21:13:00,1039,Male,53,Chandigarh,Fashion,Sneakers,3,2199.0,15,Net Banking,Desktop,Delivered,6597.0,5607.45
+161,2025-08-01 14:36:00,1131,Male,39,Jaipur,Beauty,Face Wash,1,249.0,20,UPI,Tablet,Delivered,249.0,199.20000000000002
+162,2025-04-22 18:04:00,1207,Other,36,Jaipur,Home,Mixer Grinder,1,2899.0,0,UPI,Desktop,Delivered,2899.0,2899.0
+163,2025-08-30 01:18:00,1017,Male,47,Chandigarh,Books,Python Basics,3,499.0,0,Cash on Delivery,Mobile,Delivered,1497.0,1497.0
+164,2025-08-18 12:24:00,1197,Male,53,Jaipur,Beauty,Shampoo,4,299.0,15,UPI,Tablet,Returned,1196.0,1016.6
+165,2025-03-02 05:34:00,1224,Other,28,Hyderabad,Books,Data Analytics,2,699.0,10,Cash on Delivery,Tablet,Delivered,1398.0,1258.2
+166,2025-10-06 13:34:00,1058,Other,18,Lucknow,Electronics,Wireless Earbuds,4,1499.0,15,Cash on Delivery,Mobile,Delivered,5996.0,5096.599999999999
+167,2025-01-17 21:26:00,1089,Male,45,Rohtak,Fashion,Sneakers,1,2199.0,0,Net Banking,Mobile,Delivered,2199.0,2199.0
+168,2025-05-06 23:02:00,1018,Male,42,Gurugram,Electronics,Wireless Earbuds,1,1499.0,0,Cash on Delivery,Desktop,Delivered,1499.0,1499.0
+169,2025-04-30 23:36:00,1056,Other,30,Rohtak,Electronics,Smart Watch,1,2499.0,10,Debit Card,Tablet,Delivered,2499.0,2249.1
+170,2025-09-24 07:26:00,1173,Female,60,Bengaluru,Home,Bedsheet,1,899.0,5,Debit Card,Desktop,Delivered,899.0,854.05
+171,2025-10-12 15:03:00,1243,Male,56,Lucknow,Books,Data Analytics,2,699.0,15,Debit Card,Tablet,Delivered,1398.0,1188.3
+172,2025-03-18 09:24:00,1202,Female,53,Hyderabad,Books,Business Strategy,2,599.0,15,Credit Card,Tablet,Delivered,1198.0,1018.3
+173,2025-08-26 01:35:00,1218,Female,37,Bengaluru,Fashion,Sneakers,3,2199.0,5,Cash on Delivery,Desktop,Delivered,6597.0,6267.15
+174,2025-11-28 02:59:00,1035,Male,54,Pune,Beauty,Moisturizer,1,399.0,10,Cash on Delivery,Desktop,Delivered,399.0,359.1
+175,2025-11-05 01:55:00,1186,Female,23,Jaipur,Fashion,T-Shirt,1,599.0,20,UPI,Mobile,Delivered,599.0,479.20000000000005
+176,2025-06-05 00:13:00,1151,Female,28,Gurugram,Books,Data Analytics,1,699.0,10,Credit Card,Tablet,Delivered,699.0,629.1
+177,2025-07-23 07:35:00,1194,Other,18,Gurugram,Beauty,Moisturizer,2,399.0,5,Debit Card,Desktop,Delivered,798.0,758.0999999999999
+178,2025-09-12 14:06:00,1137,Male,46,Chandigarh,Home,Desk Lamp,1,699.0,20,Cash on Delivery,Desktop,Cancelled,699.0,559.2
+179,2025-03-16 00:16:00,1095,Female,31,Bengaluru,Home,Storage Box,1,499.0,5,Net Banking,Tablet,Delivered,499.0,474.04999999999995
+180,2025-07-14 18:53:00,1107,Male,22,Lucknow,Home,Bedsheet,1,899.0,5,Credit Card,Desktop,Delivered,899.0,854.05
+181,2025-11-25 23:31:00,1242,Other,34,Pune,Home,Desk Lamp,2,699.0,15,Cash on Delivery,Mobile,Delivered,1398.0,1188.3
+182,2025-04-05 17:41:00,1091,Male,46,Chandigarh,Fashion,Jeans,2,1299.0,15,UPI,Tablet,Delivered,2598.0,2208.2999999999997
+183,2025-03-12 20:14:00,1217,Female,48,Delhi,Electronics,Wireless Earbuds,2,1499.0,15,UPI,Tablet,Delivered,2998.0,2548.2999999999997
+184,2025-11-23 21:59:00,1056,Other,30,Rohtak,Books,Fiction Novel,1,299.0,20,Net Banking,Desktop,Delivered,299.0,239.20000000000002
+185,2025-05-21 17:18:00,1005,Other,45,Delhi,Electronics,Power Bank,1,999.0,20,UPI,Tablet,Delivered,999.0,799.2
+186,2025-09-26 04:15:00,1173,Female,60,Bengaluru,Beauty,Moisturizer,1,399.0,0,Credit Card,Tablet,Delivered,399.0,399.0
+187,2025-07-11 12:29:00,1209,Other,23,Rohtak,Home,Desk Lamp,2,699.0,0,Net Banking,Mobile,Returned,1398.0,1398.0
+188,2025-02-17 12:24:00,1058,Other,18,Lucknow,Home,Mixer Grinder,2,2899.0,0,Cash on Delivery,Tablet,Delivered,5798.0,5798.0
+189,2025-11-27 10:36:00,1164,Female,56,Chandigarh,Electronics,Smart Watch,1,2499.0,15,UPI,Tablet,Cancelled,2499.0,2124.15
+190,2025-05-24 17:36:00,1059,Female,49,Delhi,Fashion,Jacket,1,1899.0,0,UPI,Mobile,Cancelled,1899.0,1899.0
+191,2025-02-09 09:10:00,1081,Female,33,Hyderabad,Electronics,Smart Watch,2,2499.0,15,Net Banking,Mobile,Delivered,4998.0,4248.3
+192,2025-02-10 16:47:00,1218,Female,37,Bengaluru,Beauty,Shampoo,1,299.0,5,Debit Card,Mobile,Delivered,299.0,284.05
+193,2025-11-01 12:49:00,1060,Male,41,Mumbai,Electronics,Bluetooth Speaker,2,1799.0,20,Debit Card,Mobile,Delivered,3598.0,2878.4
+194,2025-07-12 13:11:00,1201,Female,57,Chandigarh,Beauty,Sunscreen,1,499.0,20,Net Banking,Tablet,Delivered,499.0,399.20000000000005
+195,2025-02-12 08:09:00,1198,Male,47,Rohtak,Books,Business Strategy,2,599.0,0,Cash on Delivery,Tablet,Delivered,1198.0,1198.0
+196,2025-01-03 09:28:00,1040,Female,55,Bengaluru,Beauty,Shampoo,1,299.0,0,Debit Card,Desktop,Delivered,299.0,299.0
+197,2025-09-20 13:06:00,1023,Male,32,Gurugram,Fashion,Jacket,1,1899.0,20,UPI,Mobile,Delivered,1899.0,1519.2
+198,2025-05-30 13:24:00,1024,Female,35,Hyderabad,Books,Business Strategy,3,599.0,0,UPI,Tablet,Cancelled,1797.0,1797.0
+199,2025-03-13 08:19:00,1232,Female,39,Bengaluru,Fashion,Jeans,2,1299.0,5,Debit Card,Desktop,Delivered,2598.0,2468.1
+200,2025-02-09 11:16:00,1043,Female,23,Delhi,Beauty,Shampoo,1,299.0,15,Credit Card,Tablet,Delivered,299.0,254.15
+201,2025-06-05 00:25:00,1153,Male,30,Hyderabad,Books,Data Analytics,1,699.0,5,Debit Card,Tablet,Delivered,699.0,664.05
+202,2025-03-11 09:20:00,1221,Male,35,Bengaluru,Home,Storage Box,1,499.0,20,Net Banking,Tablet,Delivered,499.0,399.20000000000005
+203,2025-11-21 15:36:00,1081,Female,33,Hyderabad,Fashion,Jacket,4,1899.0,10,Credit Card,Desktop,Delivered,7596.0,6836.400000000001
+204,2025-04-13 18:34:00,1210,Male,32,Bengaluru,Beauty,Shampoo,1,299.0,20,Credit Card,Tablet,Delivered,299.0,239.20000000000002
+205,2025-02-05 13:43:00,1007,Male,50,Lucknow,Beauty,Moisturizer,1,399.0,10,Cash on Delivery,Mobile,Delivered,399.0,359.1
+206,2025-02-07 14:38:00,1062,Other,23,Gurugram,Home,Bedsheet,2,899.0,15,Cash on Delivery,Tablet,Delivered,1798.0,1528.3
+207,2025-10-02 19:40:00,1130,Female,36,Lucknow,Beauty,Face Wash,2,249.0,10,UPI,Mobile,Delivered,498.0,448.2
+208,2025-10-16 20:43:00,1169,Female,45,Gurugram,Home,Bedsheet,2,899.0,0,Cash on Delivery,Desktop,Returned,1798.0,1798.0
+209,2025-09-19 23:33:00,1111,Other,23,Bengaluru,Electronics,Wireless Earbuds,1,1499.0,5,Net Banking,Tablet,Delivered,1499.0,1424.05
+210,2025-09-14 04:22:00,1057,Female,28,Chandigarh,Beauty,Shampoo,1,299.0,20,UPI,Desktop,Delivered,299.0,239.20000000000002
+211,2025-06-28 09:21:00,1107,Male,22,Lucknow,Electronics,Wireless Earbuds,3,1499.0,5,Cash on Delivery,Mobile,Delivered,4497.0,4272.15
+212,2025-06-13 02:19:00,1090,Female,47,Jaipur,Beauty,Face Wash,1,249.0,15,UPI,Tablet,Delivered,249.0,211.65
+213,2025-05-05 16:11:00,1218,Female,37,Bengaluru,Home,Mixer Grinder,2,2899.0,5,Net Banking,Mobile,Delivered,5798.0,5508.099999999999
+214,2025-04-06 20:42:00,1110,Other,56,Delhi,Beauty,Moisturizer,2,399.0,5,Cash on Delivery,Desktop,Delivered,798.0,758.0999999999999
+215,2025-01-03 22:13:00,1158,Other,50,Bengaluru,Fashion,Jacket,2,1899.0,15,Credit Card,Desktop,Delivered,3798.0,3228.2999999999997
+216,2025-04-06 11:20:00,1208,Female,39,Pune,Electronics,Wireless Earbuds,2,1499.0,20,Credit Card,Desktop,Delivered,2998.0,2398.4
+217,2025-07-20 18:07:00,1172,Other,37,Chandigarh,Beauty,Shampoo,2,299.0,20,Debit Card,Desktop,Delivered,598.0,478.40000000000003
+218,2025-02-13 21:08:00,1159,Other,52,Pune,Fashion,Sneakers,3,2199.0,20,Debit Card,Mobile,Delivered,6597.0,5277.6
+219,2025-07-18 13:38:00,1030,Female,42,Mumbai,Fashion,Sneakers,2,2199.0,20,Credit Card,Tablet,Delivered,4398.0,3518.4
+220,2025-05-28 04:11:00,1048,Female,53,Delhi,Beauty,Moisturizer,2,399.0,15,Debit Card,Desktop,Delivered,798.0,678.3
+221,2025-07-16 17:32:00,1222,Female,19,Bengaluru,Home,Mixer Grinder,1,2899.0,5,Cash on Delivery,Desktop,Delivered,2899.0,2754.0499999999997
+222,2025-01-16 07:18:00,1107,Male,22,Lucknow,Beauty,Sunscreen,1,499.0,20,UPI,Desktop,Delivered,499.0,399.20000000000005
+223,2025-10-09 16:07:00,1074,Other,32,Delhi,Fashion,Jacket,2,1899.0,15,Net Banking,Mobile,Delivered,3798.0,3228.2999999999997
+224,2025-10-07 06:27:00,1140,Other,27,Chandigarh,Home,Mixer Grinder,2,2899.0,15,UPI,Tablet,Delivered,5798.0,4928.3
+225,2025-08-19 08:22:00,1193,Female,33,Rohtak,Fashion,Sneakers,3,2199.0,0,UPI,Desktop,Delivered,6597.0,6597.0
+226,2025-06-29 22:39:00,1031,Other,53,Jaipur,Fashion,Jeans,2,1299.0,20,Cash on Delivery,Mobile,Delivered,2598.0,2078.4
+227,2025-06-29 17:17:00,1201,Female,57,Chandigarh,Fashion,Jeans,2,1299.0,20,Net Banking,Tablet,Delivered,2598.0,2078.4
+228,2025-02-18 04:48:00,1181,Other,56,Pune,Home,Desk Lamp,2,699.0,20,Cash on Delivery,Mobile,Returned,1398.0,1118.4
+229,2025-05-07 21:25:00,1222,Female,19,Bengaluru,Fashion,Jeans,1,1299.0,10,Cash on Delivery,Mobile,Delivered,1299.0,1169.1000000000001
+230,2025-07-26 16:47:00,1069,Female,60,Pune,Beauty,Sunscreen,1,499.0,0,Debit Card,Tablet,Cancelled,499.0,499.0
+231,2025-02-17 23:29:00,1095,Female,31,Bengaluru,Beauty,Sunscreen,1,499.0,0,Debit Card,Mobile,Delivered,499.0,499.0
+232,2025-05-18 10:53:00,1102,Other,52,Delhi,Fashion,Jacket,2,1899.0,15,Debit Card,Desktop,Delivered,3798.0,3228.2999999999997
+233,2025-01-24 03:40:00,1034,Female,35,Gurugram,Books,Fiction Novel,2,299.0,0,Cash on Delivery,Mobile,Delivered,598.0,598.0
+234,2025-04-14 22:58:00,1220,Other,32,Hyderabad,Fashion,Jacket,1,1899.0,15,Credit Card,Tablet,Delivered,1899.0,1614.1499999999999
+235,2025-02-12 11:42:00,1224,Other,28,Hyderabad,Home,Mixer Grinder,2,2899.0,10,Credit Card,Mobile,Delivered,5798.0,5218.2
+236,2025-01-01 06:30:00,1079,Male,52,Rohtak,Fashion,Jacket,2,1899.0,0,UPI,Mobile,Delivered,3798.0,3798.0
+237,2025-03-03 13:44:00,1133,Other,49,Mumbai,Beauty,Face Wash,1,249.0,10,Credit Card,Desktop,Delivered,249.0,224.1
+238,2025-06-03 04:24:00,1099,Other,53,Hyderabad,Electronics,Wireless Earbuds,1,1499.0,10,Credit Card,Tablet,Returned,1499.0,1349.1000000000001
+239,2025-08-14 11:46:00,1037,Female,59,Hyderabad,Electronics,Wireless Earbuds,2,1499.0,5,Credit Card,Tablet,Delivered,2998.0,2848.1
+240,2025-02-21 04:48:00,1236,Female,32,Gurugram,Beauty,Sunscreen,3,499.0,0,UPI,Tablet,Delivered,1497.0,1497.0
+241,2025-05-22 20:05:00,1090,Female,47,Jaipur,Beauty,Shampoo,2,299.0,5,Credit Card,Tablet,Delivered,598.0,568.1
+242,2025-06-04 06:33:00,1185,Female,50,Lucknow,Books,Business Strategy,2,599.0,0,Net Banking,Tablet,Delivered,1198.0,1198.0
+243,2025-09-11 12:07:00,1101,Male,21,Lucknow,Home,Mixer Grinder,2,2899.0,5,Credit Card,Desktop,Delivered,5798.0,5508.099999999999
+244,2025-03-09 12:55:00,1019,Other,36,Lucknow,Books,Python Basics,4,499.0,10,Net Banking,Desktop,Delivered,1996.0,1796.4
+245,2025-01-09 18:04:00,1175,Other,26,Jaipur,Fashion,Jacket,4,1899.0,0,UPI,Desktop,Delivered,7596.0,7596.0
+246,2025-08-01 13:44:00,1237,Other,20,Delhi,Electronics,Power Bank,1,999.0,20,Cash on Delivery,Mobile,Delivered,999.0,799.2
+247,2025-02-10 16:58:00,1138,Other,45,Chandigarh,Books,Data Analytics,1,699.0,10,Credit Card,Mobile,Delivered,699.0,629.1
+248,2025-05-03 01:15:00,1101,Male,21,Lucknow,Books,Python Basics,1,499.0,15,UPI,Desktop,Delivered,499.0,424.15
+249,2025-03-03 00:45:00,1157,Male,35,Pune,Books,Python Basics,1,499.0,5,Credit Card,Tablet,Delivered,499.0,474.04999999999995
+250,2025-05-18 23:56:00,1128,Female,25,Gurugram,Home,Desk Lamp,1,699.0,5,UPI,Mobile,Delivered,699.0,664.05
+251,2025-11-18 02:31:00,1110,Other,56,Delhi,Home,Mixer Grinder,1,2899.0,20,Cash on Delivery,Tablet,Delivered,2899.0,2319.2000000000003
+252,2025-02-22 18:43:00,1128,Female,25,Gurugram,Books,Data Analytics,1,699.0,10,UPI,Mobile,Delivered,699.0,629.1
+253,2025-07-06 12:58:00,1001,Other,25,Delhi,Electronics,Wireless Earbuds,1,1499.0,15,Credit Card,Mobile,Cancelled,1499.0,1274.1499999999999
+254,2025-08-02 23:20:00,1220,Other,32,Hyderabad,Electronics,Power Bank,1,999.0,5,Debit Card,Mobile,Delivered,999.0,949.05
+255,2025-01-24 12:04:00,1031,Other,53,Jaipur,Books,Python Basics,1,499.0,20,Cash on Delivery,Desktop,Delivered,499.0,399.20000000000005
+256,2025-07-08 06:18:00,1080,Other,54,Lucknow,Home,Mixer Grinder,2,2899.0,0,Net Banking,Desktop,Delivered,5798.0,5798.0
+257,2025-04-11 23:57:00,1063,Other,49,Gurugram,Beauty,Shampoo,2,299.0,15,Net Banking,Mobile,Delivered,598.0,508.3
+258,2025-11-22 22:56:00,1239,Other,27,Jaipur,Beauty,Face Wash,1,249.0,10,UPI,Desktop,Delivered,249.0,224.1
+259,2025-05-02 13:31:00,1169,Female,45,Gurugram,Beauty,Shampoo,1,299.0,20,UPI,Mobile,Delivered,299.0,239.20000000000002
+260,2025-07-31 22:57:00,1024,Female,35,Hyderabad,Electronics,Smart Watch,3,2499.0,20,Debit Card,Desktop,Returned,7497.0,5997.6
+261,2025-02-08 18:36:00,1022,Other,32,Mumbai,Books,Python Basics,1,499.0,15,UPI,Desktop,Delivered,499.0,424.15
+262,2025-07-21 22:53:00,1034,Female,35,Gurugram,Fashion,Sneakers,1,2199.0,10,Debit Card,Desktop,Delivered,2199.0,1979.1000000000001
+263,2025-02-25 04:06:00,1060,Male,41,Mumbai,Electronics,Smart Watch,1,2499.0,20,Credit Card,Desktop,Delivered,2499.0,1999.2
+264,2025-08-20 09:29:00,1105,Other,51,Rohtak,Electronics,Bluetooth Speaker,4,1799.0,5,Debit Card,Mobile,Delivered,7196.0,6836.2
+265,2025-03-17 02:45:00,1207,Other,36,Jaipur,Home,Mixer Grinder,1,2899.0,10,Credit Card,Desktop,Delivered,2899.0,2609.1
+266,2025-01-16 12:54:00,1013,Female,27,Jaipur,Home,Desk Lamp,2,699.0,5,Cash on Delivery,Tablet,Delivered,1398.0,1328.1
+267,2025-03-04 00:03:00,1064,Other,26,Rohtak,Electronics,Power Bank,1,999.0,5,Credit Card,Mobile,Delivered,999.0,949.05
+268,2025-02-08 00:04:00,1103,Other,38,Delhi,Home,Mixer Grinder,2,2899.0,10,Credit Card,Tablet,Delivered,5798.0,5218.2
+269,2025-01-26 05:59:00,1033,Male,20,Pune,Electronics,Bluetooth Speaker,1,1799.0,15,Net Banking,Desktop,Delivered,1799.0,1529.1499999999999
+270,2025-03-30 11:13:00,1102,Other,52,Delhi,Beauty,Face Wash,1,249.0,15,Credit Card,Desktop,Delivered,249.0,211.65
+271,2025-05-06 20:18:00,1227,Other,60,Delhi,Fashion,T-Shirt,2,599.0,20,Cash on Delivery,Desktop,Delivered,1198.0,958.4000000000001
+272,2025-08-03 06:41:00,1123,Female,28,Hyderabad,Electronics,Wireless Earbuds,1,1499.0,5,Net Banking,Mobile,Delivered,1499.0,1424.05
+273,2025-09-03 17:50:00,1206,Female,46,Gurugram,Books,Python Basics,4,499.0,10,Cash on Delivery,Desktop,Cancelled,1996.0,1796.4
+274,2025-06-13 19:14:00,1129,Other,53,Rohtak,Home,Storage Box,1,499.0,0,UPI,Desktop,Delivered,499.0,499.0
+275,2025-03-23 03:15:00,1121,Female,26,Pune,Books,Business Strategy,2,599.0,5,Credit Card,Desktop,Delivered,1198.0,1138.1
+276,2025-07-01 05:11:00,1203,Male,48,Hyderabad,Electronics,Smart Watch,2,2499.0,15,Credit Card,Tablet,Delivered,4998.0,4248.3
+277,2025-10-18 18:09:00,1189,Male,33,Hyderabad,Home,Mixer Grinder,2,2899.0,10,Net Banking,Mobile,Delivered,5798.0,5218.2
+278,2025-02-16 01:14:00,1208,Female,39,Pune,Beauty,Shampoo,1,299.0,0,Net Banking,Mobile,Delivered,299.0,299.0
+279,2025-03-08 10:45:00,1123,Female,28,Hyderabad,Electronics,Bluetooth Speaker,3,1799.0,5,Credit Card,Desktop,Delivered,5397.0,5127.15
+280,2025-07-06 02:23:00,1038,Male,34,Rohtak,Books,Data Analytics,2,699.0,20,Cash on Delivery,Tablet,Delivered,1398.0,1118.4
+281,2025-11-24 15:41:00,1078,Male,35,Hyderabad,Home,Bedsheet,4,899.0,15,Debit Card,Mobile,Delivered,3596.0,3056.6
+282,2025-03-31 12:19:00,1144,Female,20,Pune,Books,Business Strategy,1,599.0,20,Debit Card,Mobile,Delivered,599.0,479.20000000000005
+283,2025-01-17 05:38:00,1001,Other,25,Delhi,Books,Fiction Novel,3,299.0,20,Debit Card,Tablet,Delivered,897.0,717.6
+284,2025-05-02 11:20:00,1145,Male,33,Gurugram,Electronics,Power Bank,1,999.0,0,Credit Card,Tablet,Delivered,999.0,999.0
+285,2025-05-08 22:04:00,1023,Male,32,Gurugram,Home,Storage Box,1,499.0,5,Debit Card,Desktop,Delivered,499.0,474.04999999999995
+286,2025-03-27 13:31:00,1185,Female,50,Lucknow,Electronics,Wireless Earbuds,1,1499.0,15,Cash on Delivery,Desktop,Delivered,1499.0,1274.1499999999999
+287,2025-01-18 09:01:00,1026,Female,40,Jaipur,Beauty,Moisturizer,1,399.0,0,Debit Card,Desktop,Cancelled,399.0,399.0
+288,2025-02-08 17:57:00,1019,Other,36,Lucknow,Home,Bedsheet,3,899.0,5,UPI,Desktop,Delivered,2697.0,2562.15
+289,2025-11-07 13:10:00,1158,Other,50,Bengaluru,Beauty,Face Wash,1,249.0,5,UPI,Mobile,Delivered,249.0,236.54999999999998
+290,2025-05-16 21:18:00,1250,Male,37,Lucknow,Fashion,Jacket,2,1899.0,20,Debit Card,Mobile,Delivered,3798.0,3038.4
+291,2025-01-02 13:05:00,1101,Male,21,Lucknow,Books,Fiction Novel,1,299.0,10,Debit Card,Tablet,Delivered,299.0,269.1
+292,2025-11-23 09:05:00,1123,Female,28,Hyderabad,Fashion,T-Shirt,1,599.0,5,Cash on Delivery,Mobile,Delivered,599.0,569.05
+293,2025-02-16 20:34:00,1102,Other,52,Delhi,Beauty,Sunscreen,3,499.0,10,Cash on Delivery,Mobile,Delivered,1497.0,1347.3
+294,2025-08-14 14:16:00,1098,Female,36,Bengaluru,Home,Bedsheet,1,899.0,10,Credit Card,Desktop,Delivered,899.0,809.1
+295,2025-07-31 18:14:00,1039,Male,53,Chandigarh,Electronics,Wireless Earbuds,2,1499.0,20,Net Banking,Mobile,Delivered,2998.0,2398.4
+296,2025-10-21 07:30:00,1210,Male,32,Bengaluru,Books,Fiction Novel,4,299.0,15,Debit Card,Mobile,Delivered,1196.0,1016.6
+297,2025-03-30 05:13:00,1219,Female,52,Chandigarh,Electronics,Smart Watch,1,2499.0,15,Credit Card,Mobile,Delivered,2499.0,2124.15
+298,2025-11-01 08:20:00,1021,Other,22,Delhi,Beauty,Moisturizer,4,399.0,5,UPI,Mobile,Delivered,1596.0,1516.1999999999998
+299,2025-08-23 00:50:00,1102,Other,52,Delhi,Books,Business Strategy,3,599.0,20,Net Banking,Tablet,Delivered,1797.0,1437.6000000000001
+300,2025-10-29 18:48:00,1108,Male,33,Bengaluru,Electronics,Power Bank,1,999.0,20,UPI,Mobile,Delivered,999.0,799.2
+301,2025-07-16 20:31:00,1026,Female,40,Jaipur,Home,Desk Lamp,3,699.0,10,Net Banking,Tablet,Delivered,2097.0,1887.3
+302,2025-07-25 01:25:00,1045,Other,45,Lucknow,Home,Storage Box,1,499.0,20,Debit Card,Tablet,Delivered,499.0,399.20000000000005
+303,2025-06-22 09:19:00,1191,Female,58,Lucknow,Beauty,Shampoo,3,299.0,0,Debit Card,Desktop,Delivered,897.0,897.0
+304,2025-06-14 08:46:00,1176,Female,60,Bengaluru,Electronics,Smart Watch,1,2499.0,15,Cash on Delivery,Tablet,Delivered,2499.0,2124.15
+305,2025-09-06 16:55:00,1049,Other,25,Chandigarh,Beauty,Moisturizer,3,399.0,15,Debit Card,Mobile,Delivered,1197.0,1017.4499999999999
+306,2025-03-11 16:56:00,1041,Other,43,Pune,Electronics,Bluetooth Speaker,2,1799.0,15,Net Banking,Mobile,Delivered,3598.0,3058.2999999999997
+307,2025-01-26 11:45:00,1225,Male,57,Chandigarh,Fashion,T-Shirt,1,599.0,15,Credit Card,Desktop,Delivered,599.0,509.15
+308,2025-01-16 07:23:00,1119,Other,24,Gurugram,Books,Fiction Novel,2,299.0,0,Cash on Delivery,Tablet,Delivered,598.0,598.0
+309,2025-02-16 09:01:00,1246,Male,37,Lucknow,Beauty,Shampoo,1,299.0,10,Cash on Delivery,Mobile,Delivered,299.0,269.1
+310,2025-05-18 20:26:00,1147,Other,27,Jaipur,Fashion,Jeans,2,1299.0,5,Net Banking,Mobile,Delivered,2598.0,2468.1
+311,2025-11-04 00:14:00,1248,Other,30,Gurugram,Electronics,Power Bank,3,999.0,5,Debit Card,Tablet,Delivered,2997.0,2847.15
+312,2025-08-24 08:13:00,1079,Male,52,Rohtak,Home,Storage Box,3,499.0,10,Cash on Delivery,Desktop,Delivered,1497.0,1347.3
+313,2025-09-19 21:53:00,1212,Male,44,Bengaluru,Books,Fiction Novel,2,299.0,0,Debit Card,Tablet,Delivered,598.0,598.0
+314,2025-02-02 10:17:00,1156,Female,39,Mumbai,Home,Desk Lamp,2,699.0,15,Debit Card,Desktop,Delivered,1398.0,1188.3
+315,2025-01-30 19:25:00,1183,Other,31,Chandigarh,Home,Bedsheet,1,899.0,5,Debit Card,Tablet,Delivered,899.0,854.05
+316,2025-07-27 12:47:00,1007,Male,50,Lucknow,Beauty,Shampoo,1,299.0,15,UPI,Tablet,Delivered,299.0,254.15
+317,2025-10-01 20:50:00,1147,Other,27,Jaipur,Fashion,Sneakers,2,2199.0,5,Cash on Delivery,Tablet,Delivered,4398.0,4178.099999999999
+318,2025-03-07 23:16:00,1077,Female,22,Chandigarh,Fashion,Jeans,1,1299.0,15,Net Banking,Mobile,Cancelled,1299.0,1104.1499999999999
+319,2025-06-07 13:50:00,1231,Female,31,Hyderabad,Home,Mixer Grinder,1,2899.0,5,Debit Card,Desktop,Delivered,2899.0,2754.0499999999997
+320,2025-10-25 19:04:00,1076,Male,22,Delhi,Beauty,Face Wash,1,249.0,20,Cash on Delivery,Mobile,Delivered,249.0,199.20000000000002
+321,2025-03-12 06:21:00,1223,Female,60,Bengaluru,Beauty,Shampoo,1,299.0,5,Cash on Delivery,Tablet,Delivered,299.0,284.05
+322,2025-02-11 15:21:00,1118,Male,47,Lucknow,Fashion,Sneakers,3,2199.0,5,Credit Card,Desktop,Delivered,6597.0,6267.15
+323,2025-10-23 05:31:00,1002,Other,35,Jaipur,Beauty,Shampoo,1,299.0,5,UPI,Mobile,Delivered,299.0,284.05
+324,2025-07-16 00:02:00,1163,Female,40,Pune,Beauty,Sunscreen,1,499.0,15,Net Banking,Mobile,Delivered,499.0,424.15
+325,2025-04-08 00:43:00,1244,Other,25,Rohtak,Electronics,Bluetooth Speaker,2,1799.0,20,UPI,Tablet,Delivered,3598.0,2878.4
+326,2025-09-15 18:19:00,1058,Other,18,Lucknow,Home,Desk Lamp,1,699.0,15,Credit Card,Mobile,Delivered,699.0,594.15
+327,2025-09-26 10:27:00,1077,Female,22,Chandigarh,Home,Storage Box,2,499.0,20,Credit Card,Desktop,Returned,998.0,798.4000000000001
+328,2025-01-10 07:14:00,1126,Other,53,Mumbai,Home,Bedsheet,1,899.0,15,Credit Card,Mobile,Delivered,899.0,764.15
+329,2025-07-12 20:16:00,1151,Female,28,Gurugram,Books,Data Analytics,1,699.0,0,Net Banking,Tablet,Delivered,699.0,699.0
+330,2025-08-02 14:24:00,1013,Female,27,Jaipur,Electronics,Wireless Earbuds,1,1499.0,0,UPI,Tablet,Delivered,1499.0,1499.0
+331,2025-06-04 13:42:00,1180,Female,31,Bengaluru,Fashion,Jeans,2,1299.0,0,UPI,Tablet,Delivered,2598.0,2598.0
+332,2025-09-19 23:39:00,1160,Male,25,Mumbai,Books,Data Analytics,1,699.0,0,UPI,Desktop,Delivered,699.0,699.0
+333,2025-09-25 06:22:00,1028,Other,58,Rohtak,Beauty,Moisturizer,2,399.0,10,Cash on Delivery,Desktop,Delivered,798.0,718.2
+334,2025-06-19 07:00:00,1141,Male,41,Lucknow,Beauty,Moisturizer,2,399.0,15,UPI,Tablet,Delivered,798.0,678.3
+335,2025-09-19 02:46:00,1029,Other,33,Rohtak,Books,Fiction Novel,1,299.0,0,UPI,Desktop,Delivered,299.0,299.0
+336,2025-03-31 01:54:00,1117,Female,38,Gurugram,Home,Desk Lamp,1,699.0,0,Debit Card,Desktop,Delivered,699.0,699.0
+337,2025-01-05 04:42:00,1081,Female,33,Hyderabad,Beauty,Face Wash,1,249.0,0,Credit Card,Desktop,Delivered,249.0,249.0
+338,2025-07-10 10:11:00,1113,Other,38,Mumbai,Books,Business Strategy,3,599.0,0,UPI,Desktop,Delivered,1797.0,1797.0
+339,2025-08-04 20:56:00,1117,Female,38,Gurugram,Home,Storage Box,2,499.0,15,Credit Card,Mobile,Delivered,998.0,848.3
+340,2025-09-05 18:43:00,1186,Female,23,Jaipur,Electronics,Smart Watch,1,2499.0,20,Cash on Delivery,Mobile,Delivered,2499.0,1999.2
+341,2025-09-05 15:07:00,1200,Other,56,Pune,Home,Mixer Grinder,3,2899.0,5,Cash on Delivery,Desktop,Delivered,8697.0,8262.15
+342,2025-10-23 23:36:00,1067,Other,45,Jaipur,Home,Mixer Grinder,2,2899.0,20,Credit Card,Tablet,Delivered,5798.0,4638.400000000001
+343,2025-09-04 11:42:00,1133,Other,49,Mumbai,Books,Python Basics,1,499.0,5,Cash on Delivery,Mobile,Delivered,499.0,474.04999999999995
+344,2025-09-16 15:54:00,1143,Male,20,Mumbai,Books,Python Basics,1,499.0,5,Cash on Delivery,Mobile,Delivered,499.0,474.04999999999995
+345,2025-01-26 16:14:00,1126,Other,53,Mumbai,Home,Bedsheet,1,899.0,10,Net Banking,Tablet,Delivered,899.0,809.1
+346,2025-08-18 02:54:00,1210,Male,32,Bengaluru,Fashion,T-Shirt,1,599.0,20,Cash on Delivery,Desktop,Delivered,599.0,479.20000000000005
+347,2025-10-13 17:00:00,1128,Female,25,Gurugram,Electronics,Wireless Earbuds,1,1499.0,0,UPI,Tablet,Returned,1499.0,1499.0
+348,2025-06-24 11:52:00,1164,Female,56,Chandigarh,Home,Bedsheet,2,899.0,15,UPI,Mobile,Delivered,1798.0,1528.3
+349,2025-08-20 03:06:00,1085,Female,21,Gurugram,Books,Fiction Novel,2,299.0,10,Credit Card,Mobile,Delivered,598.0,538.2
+350,2025-03-26 15:08:00,1213,Female,52,Hyderabad,Home,Desk Lamp,2,699.0,0,Cash on Delivery,Mobile,Delivered,1398.0,1398.0
+351,2025-04-21 14:52:00,1051,Male,36,Bengaluru,Fashion,T-Shirt,3,599.0,15,Credit Card,Tablet,Delivered,1797.0,1527.45
+352,2025-03-05 14:29:00,1194,Other,18,Gurugram,Beauty,Face Wash,3,249.0,20,Net Banking,Tablet,Delivered,747.0,597.6
+353,2025-10-27 15:59:00,1128,Female,25,Gurugram,Electronics,Wireless Earbuds,2,1499.0,15,Net Banking,Mobile,Delivered,2998.0,2548.2999999999997
+354,2025-11-07 10:32:00,1045,Other,45,Lucknow,Fashion,T-Shirt,1,599.0,20,Cash on Delivery,Desktop,Returned,599.0,479.20000000000005
+355,2025-05-31 14:51:00,1235,Other,52,Delhi,Fashion,Sneakers,1,2199.0,10,Credit Card,Mobile,Delivered,2199.0,1979.1000000000001
+356,2025-06-10 22:47:00,1180,Female,31,Bengaluru,Books,Business Strategy,3,599.0,20,Net Banking,Tablet,Delivered,1797.0,1437.6000000000001
+357,2025-11-29 05:32:00,1054,Male,50,Gurugram,Books,Business Strategy,2,599.0,5,Net Banking,Tablet,Delivered,1198.0,1138.1
+358,2025-10-20 21:45:00,1182,Female,46,Hyderabad,Electronics,Bluetooth Speaker,2,1799.0,20,Cash on Delivery,Tablet,Delivered,3598.0,2878.4
+359,2025-01-07 16:06:00,1216,Other,19,Lucknow,Books,Business Strategy,3,599.0,15,UPI,Desktop,Delivered,1797.0,1527.45
+360,2025-05-27 21:16:00,1172,Other,37,Chandigarh,Electronics,Smart Watch,1,2499.0,5,Credit Card,Mobile,Delivered,2499.0,2374.0499999999997
+361,2025-02-22 19:55:00,1076,Male,22,Delhi,Fashion,T-Shirt,1,599.0,15,Net Banking,Mobile,Delivered,599.0,509.15
+362,2025-01-25 12:24:00,1144,Female,20,Pune,Beauty,Moisturizer,1,399.0,10,Cash on Delivery,Tablet,Delivered,399.0,359.1
+363,2025-11-14 14:53:00,1142,Other,27,Bengaluru,Electronics,Wireless Earbuds,2,1499.0,5,Credit Card,Tablet,Delivered,2998.0,2848.1
+364,2025-05-31 14:11:00,1166,Male,34,Delhi,Home,Bedsheet,2,899.0,5,UPI,Mobile,Returned,1798.0,1708.1
+365,2025-05-23 17:16:00,1189,Male,33,Hyderabad,Books,Python Basics,1,499.0,15,Credit Card,Mobile,Delivered,499.0,424.15
+366,2025-01-21 04:59:00,1066,Male,34,Chandigarh,Electronics,Bluetooth Speaker,1,1799.0,5,Debit Card,Tablet,Delivered,1799.0,1709.05
+367,2025-10-09 11:04:00,1239,Other,27,Jaipur,Books,Business Strategy,1,599.0,20,Debit Card,Tablet,Delivered,599.0,479.20000000000005
+368,2025-08-01 17:34:00,1048,Female,53,Delhi,Books,Python Basics,2,499.0,5,Cash on Delivery,Mobile,Delivered,998.0,948.0999999999999
+369,2025-04-22 19:33:00,1227,Other,60,Delhi,Fashion,Sneakers,1,2199.0,10,Cash on Delivery,Tablet,Delivered,2199.0,1979.1000000000001
+370,2025-05-04 20:39:00,1167,Other,45,Delhi,Electronics,Wireless Earbuds,2,1499.0,15,Net Banking,Mobile,Cancelled,2998.0,2548.2999999999997
+371,2025-07-17 08:34:00,1175,Other,26,Jaipur,Home,Storage Box,3,499.0,0,Debit Card,Mobile,Cancelled,1497.0,1497.0
+372,2025-11-30 06:20:00,1211,Other,27,Jaipur,Home,Storage Box,1,499.0,10,Net Banking,Mobile,Cancelled,499.0,449.1
+373,2025-11-19 06:55:00,1043,Female,23,Delhi,Books,Python Basics,2,499.0,5,Cash on Delivery,Mobile,Delivered,998.0,948.0999999999999
+374,2025-01-13 14:45:00,1213,Female,52,Hyderabad,Beauty,Face Wash,2,249.0,5,Debit Card,Mobile,Delivered,498.0,473.09999999999997
+375,2025-04-27 08:26:00,1014,Female,24,Gurugram,Fashion,Sneakers,2,2199.0,20,Cash on Delivery,Desktop,Delivered,4398.0,3518.4
+376,2025-10-01 00:41:00,1111,Other,23,Bengaluru,Home,Mixer Grinder,1,2899.0,0,Net Banking,Mobile,Delivered,2899.0,2899.0
+377,2025-02-24 09:50:00,1150,Female,60,Jaipur,Electronics,Wireless Earbuds,1,1499.0,20,Debit Card,Tablet,Delivered,1499.0,1199.2
+378,2025-08-31 05:34:00,1196,Other,51,Hyderabad,Beauty,Sunscreen,1,499.0,0,Credit Card,Mobile,Delivered,499.0,499.0
+379,2025-06-02 21:56:00,1204,Female,33,Mumbai,Books,Business Strategy,4,599.0,5,Debit Card,Mobile,Delivered,2396.0,2276.2
+380,2025-11-02 12:34:00,1143,Male,20,Mumbai,Fashion,T-Shirt,1,599.0,20,Net Banking,Mobile,Delivered,599.0,479.20000000000005
+381,2025-03-14 05:11:00,1192,Male,42,Hyderabad,Home,Bedsheet,1,899.0,20,Credit Card,Tablet,Delivered,899.0,719.2
+382,2025-01-28 17:29:00,1050,Female,59,Pune,Electronics,Smart Watch,2,2499.0,20,Net Banking,Mobile,Delivered,4998.0,3998.4
+383,2025-09-07 10:22:00,1018,Male,42,Gurugram,Home,Mixer Grinder,1,2899.0,20,Credit Card,Tablet,Delivered,2899.0,2319.2000000000003
+384,2025-09-06 14:21:00,1026,Female,40,Jaipur,Home,Mixer Grinder,3,2899.0,10,Net Banking,Tablet,Delivered,8697.0,7827.3
+385,2025-03-28 00:20:00,1150,Female,60,Jaipur,Fashion,Sneakers,2,2199.0,15,Credit Card,Mobile,Delivered,4398.0,3738.2999999999997
+386,2025-06-19 15:29:00,1165,Male,42,Lucknow,Beauty,Shampoo,3,299.0,5,Cash on Delivery,Desktop,Delivered,897.0,852.15
+387,2025-02-11 08:54:00,1125,Other,51,Delhi,Books,Python Basics,1,499.0,20,Credit Card,Tablet,Delivered,499.0,399.20000000000005
+388,2025-11-20 00:52:00,1188,Male,27,Delhi,Electronics,Wireless Earbuds,3,1499.0,20,Net Banking,Tablet,Delivered,4497.0,3597.6000000000004
+389,2025-10-04 15:41:00,1152,Female,20,Hyderabad,Fashion,T-Shirt,2,599.0,20,Credit Card,Desktop,Delivered,1198.0,958.4000000000001
+390,2025-09-19 02:25:00,1229,Male,47,Rohtak,Books,Business Strategy,1,599.0,20,Debit Card,Tablet,Delivered,599.0,479.20000000000005
+391,2025-08-17 05:11:00,1062,Other,23,Gurugram,Books,Data Analytics,2,699.0,5,Net Banking,Tablet,Delivered,1398.0,1328.1
+392,2025-04-23 15:14:00,1248,Other,30,Gurugram,Fashion,Jacket,3,1899.0,0,UPI,Desktop,Delivered,5697.0,5697.0
+393,2025-01-24 01:41:00,1011,Other,35,Delhi,Fashion,Sneakers,1,2199.0,15,Debit Card,Mobile,Delivered,2199.0,1869.1499999999999
+394,2025-03-31 12:41:00,1134,Male,23,Bengaluru,Home,Desk Lamp,2,699.0,20,Cash on Delivery,Desktop,Delivered,1398.0,1118.4
+395,2025-09-22 12:22:00,1230,Male,34,Bengaluru,Electronics,Bluetooth Speaker,1,1799.0,5,Debit Card,Desktop,Delivered,1799.0,1709.05
+396,2025-08-14 05:14:00,1228,Male,59,Bengaluru,Books,Python Basics,1,499.0,5,UPI,Tablet,Delivered,499.0,474.04999999999995
+397,2025-03-02 21:14:00,1055,Other,37,Chandigarh,Fashion,Jeans,1,1299.0,20,Cash on Delivery,Desktop,Delivered,1299.0,1039.2
+398,2025-11-28 13:01:00,1124,Other,37,Lucknow,Beauty,Sunscreen,1,499.0,5,Credit Card,Mobile,Delivered,499.0,474.04999999999995
+399,2025-10-21 04:03:00,1152,Female,20,Hyderabad,Fashion,Jeans,2,1299.0,0,Credit Card,Desktop,Cancelled,2598.0,2598.0
+400,2025-02-13 06:28:00,1133,Other,49,Mumbai,Beauty,Face Wash,3,249.0,10,Net Banking,Desktop,Delivered,747.0,672.3000000000001
+401,2025-04-04 19:42:00,1044,Male,27,Rohtak,Fashion,Jacket,2,1899.0,20,Net Banking,Desktop,Delivered,3798.0,3038.4
+402,2025-04-28 12:24:00,1176,Female,60,Bengaluru,Home,Storage Box,2,499.0,0,Credit Card,Mobile,Delivered,998.0,998.0
+403,2025-02-19 05:30:00,1134,Male,23,Bengaluru,Books,Fiction Novel,2,299.0,20,Net Banking,Tablet,Delivered,598.0,478.40000000000003
+404,2025-11-05 17:52:00,1201,Female,57,Chandigarh,Books,Python Basics,1,499.0,5,UPI,Tablet,Delivered,499.0,474.04999999999995
+405,2025-08-08 07:51:00,1134,Male,23,Bengaluru,Beauty,Shampoo,3,299.0,20,Cash on Delivery,Desktop,Delivered,897.0,717.6
+406,2025-09-02 07:58:00,1206,Female,46,Gurugram,Books,Python Basics,1,499.0,10,UPI,Desktop,Delivered,499.0,449.1
+407,2025-10-23 16:07:00,1140,Other,27,Chandigarh,Beauty,Shampoo,1,299.0,0,Net Banking,Mobile,Delivered,299.0,299.0
+408,2025-08-07 20:37:00,1053,Other,34,Chandigarh,Home,Storage Box,1,499.0,5,Debit Card,Desktop,Delivered,499.0,474.04999999999995
+409,2025-04-15 13:35:00,1109,Male,54,Jaipur,Books,Business Strategy,2,599.0,15,Net Banking,Desktop,Delivered,1198.0,1018.3
+410,2025-10-23 11:49:00,1144,Female,20,Pune,Books,Fiction Novel,1,299.0,10,Cash on Delivery,Tablet,Delivered,299.0,269.1
+411,2025-02-21 06:32:00,1222,Female,19,Bengaluru,Electronics,Smart Watch,1,2499.0,5,Cash on Delivery,Desktop,Delivered,2499.0,2374.0499999999997
+412,2025-02-16 04:30:00,1158,Other,50,Bengaluru,Electronics,Smart Watch,1,2499.0,0,Net Banking,Desktop,Delivered,2499.0,2499.0
+413,2025-07-16 12:39:00,1068,Other,30,Mumbai,Fashion,Sneakers,1,2199.0,0,Net Banking,Desktop,Delivered,2199.0,2199.0
+414,2025-01-06 06:54:00,1153,Male,30,Hyderabad,Electronics,Smart Watch,2,2499.0,15,Net Banking,Desktop,Delivered,4998.0,4248.3
+415,2025-07-04 07:41:00,1201,Female,57,Chandigarh,Books,Data Analytics,2,699.0,0,UPI,Mobile,Delivered,1398.0,1398.0
+416,2025-10-28 06:33:00,1071,Male,33,Jaipur,Beauty,Shampoo,2,299.0,15,UPI,Tablet,Delivered,598.0,508.3
+417,2025-10-26 11:22:00,1236,Female,32,Gurugram,Electronics,Bluetooth Speaker,2,1799.0,20,Debit Card,Mobile,Delivered,3598.0,2878.4
+418,2025-03-31 13:32:00,1050,Female,59,Pune,Beauty,Sunscreen,2,499.0,10,UPI,Tablet,Delivered,998.0,898.2
+419,2025-10-03 18:16:00,1076,Male,22,Delhi,Home,Mixer Grinder,2,2899.0,10,Cash on Delivery,Desktop,Delivered,5798.0,5218.2
+420,2025-08-24 18:55:00,1198,Male,47,Rohtak,Fashion,Sneakers,4,2199.0,15,UPI,Desktop,Delivered,8796.0,7476.599999999999
+421,2025-06-11 13:22:00,1018,Male,42,Gurugram,Beauty,Moisturizer,2,399.0,5,Net Banking,Tablet,Delivered,798.0,758.0999999999999
+422,2025-06-25 02:35:00,1214,Female,21,Jaipur,Home,Bedsheet,1,899.0,15,Credit Card,Desktop,Delivered,899.0,764.15
+423,2025-09-13 23:12:00,1056,Other,30,Rohtak,Books,Business Strategy,1,599.0,5,Credit Card,Tablet,Delivered,599.0,569.05
+424,2025-11-13 11:09:00,1068,Other,30,Mumbai,Fashion,Jeans,1,1299.0,5,UPI,Mobile,Cancelled,1299.0,1234.05
+425,2025-01-22 15:23:00,1174,Female,43,Mumbai,Beauty,Face Wash,2,249.0,20,Net Banking,Desktop,Delivered,498.0,398.40000000000003
+426,2025-05-24 12:14:00,1226,Male,43,Lucknow,Books,Business Strategy,1,599.0,20,Net Banking,Mobile,Delivered,599.0,479.20000000000005
+427,2025-09-15 11:25:00,1205,Other,49,Jaipur,Beauty,Sunscreen,3,499.0,0,Credit Card,Desktop,Returned,1497.0,1497.0
+428,2025-01-07 21:13:00,1179,Other,18,Mumbai,Books,Fiction Novel,1,299.0,0,Cash on Delivery,Tablet,Delivered,299.0,299.0
+429,2025-05-02 08:30:00,1093,Male,23,Jaipur,Books,Business Strategy,1,599.0,10,Net Banking,Desktop,Delivered,599.0,539.1
+430,2025-07-06 12:17:00,1128,Female,25,Gurugram,Beauty,Moisturizer,1,399.0,10,Cash on Delivery,Mobile,Delivered,399.0,359.1
+431,2025-10-12 13:54:00,1148,Male,29,Bengaluru,Fashion,T-Shirt,2,599.0,5,Cash on Delivery,Mobile,Delivered,1198.0,1138.1
+432,2025-08-04 15:08:00,1246,Male,37,Lucknow,Fashion,Jacket,2,1899.0,5,Net Banking,Tablet,Delivered,3798.0,3608.1
+433,2025-01-25 12:06:00,1202,Female,53,Hyderabad,Beauty,Shampoo,1,299.0,20,Credit Card,Mobile,Delivered,299.0,239.20000000000002
+434,2025-05-14 11:23:00,1066,Male,34,Chandigarh,Beauty,Face Wash,1,249.0,10,Net Banking,Tablet,Cancelled,249.0,224.1
+435,2025-11-07 06:36:00,1066,Male,34,Chandigarh,Home,Mixer Grinder,1,2899.0,10,Net Banking,Tablet,Delivered,2899.0,2609.1
+436,2025-09-07 23:28:00,1045,Other,45,Lucknow,Home,Desk Lamp,1,699.0,20,UPI,Desktop,Delivered,699.0,559.2
+437,2025-08-04 20:39:00,1119,Other,24,Gurugram,Fashion,Jeans,2,1299.0,10,Net Banking,Desktop,Delivered,2598.0,2338.2000000000003
+438,2025-06-12 20:18:00,1019,Other,36,Lucknow,Electronics,Smart Watch,1,2499.0,10,Debit Card,Tablet,Delivered,2499.0,2249.1
+439,2025-08-19 13:10:00,1070,Female,51,Hyderabad,Beauty,Shampoo,2,299.0,20,Credit Card,Mobile,Delivered,598.0,478.40000000000003
+440,2025-02-22 03:04:00,1061,Male,21,Jaipur,Home,Mixer Grinder,1,2899.0,15,Cash on Delivery,Tablet,Delivered,2899.0,2464.15
+441,2025-03-21 02:41:00,1198,Male,47,Rohtak,Beauty,Face Wash,1,249.0,20,Cash on Delivery,Desktop,Delivered,249.0,199.20000000000002
+442,2025-09-27 05:01:00,1189,Male,33,Hyderabad,Home,Storage Box,2,499.0,5,UPI,Tablet,Delivered,998.0,948.0999999999999
+443,2025-05-20 17:28:00,1235,Other,52,Delhi,Home,Storage Box,1,499.0,20,Credit Card,Tablet,Delivered,499.0,399.20000000000005
+444,2025-08-11 16:40:00,1152,Female,20,Hyderabad,Books,Fiction Novel,2,299.0,20,Net Banking,Desktop,Cancelled,598.0,478.40000000000003
+445,2025-06-07 11:26:00,1124,Other,37,Lucknow,Books,Data Analytics,2,699.0,15,Debit Card,Mobile,Delivered,1398.0,1188.3
+446,2025-10-01 00:44:00,1001,Other,25,Delhi,Books,Data Analytics,1,699.0,15,Cash on Delivery,Desktop,Delivered,699.0,594.15
+447,2025-10-08 11:12:00,1197,Male,53,Jaipur,Beauty,Shampoo,2,299.0,0,Cash on Delivery,Tablet,Delivered,598.0,598.0
+448,2025-05-15 02:27:00,1064,Other,26,Rohtak,Fashion,Jacket,2,1899.0,5,Credit Card,Tablet,Delivered,3798.0,3608.1
+449,2025-05-18 13:12:00,1233,Female,44,Mumbai,Books,Business Strategy,1,599.0,20,UPI,Mobile,Delivered,599.0,479.20000000000005
+450,2025-09-09 06:20:00,1029,Other,33,Rohtak,Beauty,Sunscreen,1,499.0,20,UPI,Mobile,Delivered,499.0,399.20000000000005
+451,2025-05-18 04:45:00,1137,Male,46,Chandigarh,Electronics,Smart Watch,4,2499.0,10,Cash on Delivery,Tablet,Delivered,9996.0,8996.4
+452,2025-08-04 09:50:00,1024,Female,35,Hyderabad,Fashion,T-Shirt,1,599.0,10,Cash on Delivery,Desktop,Delivered,599.0,539.1
+453,2025-01-29 08:49:00,1203,Male,48,Hyderabad,Electronics,Bluetooth Speaker,1,1799.0,5,Cash on Delivery,Mobile,Delivered,1799.0,1709.05
+454,2025-03-04 22:15:00,1047,Other,47,Chandigarh,Fashion,Sneakers,2,2199.0,0,Cash on Delivery,Desktop,Delivered,4398.0,4398.0
+455,2025-09-24 21:13:00,1009,Other,59,Chandigarh,Fashion,Jacket,2,1899.0,0,Cash on Delivery,Desktop,Delivered,3798.0,3798.0
+456,2025-10-09 16:07:00,1080,Other,54,Lucknow,Home,Bedsheet,2,899.0,0,Debit Card,Desktop,Delivered,1798.0,1798.0
+457,2025-02-27 07:40:00,1051,Male,36,Bengaluru,Home,Mixer Grinder,3,2899.0,5,Cash on Delivery,Desktop,Delivered,8697.0,8262.15
+458,2025-01-05 01:37:00,1204,Female,33,Mumbai,Home,Mixer Grinder,1,2899.0,5,Cash on Delivery,Tablet,Delivered,2899.0,2754.0499999999997
+459,2025-11-13 10:59:00,1096,Male,28,Bengaluru,Electronics,Smart Watch,1,2499.0,0,UPI,Mobile,Delivered,2499.0,2499.0
+460,2025-06-12 17:50:00,1040,Female,55,Bengaluru,Books,Python Basics,1,499.0,5,Debit Card,Desktop,Delivered,499.0,474.04999999999995
+461,2025-01-21 15:45:00,1006,Male,23,Jaipur,Beauty,Shampoo,2,299.0,10,Cash on Delivery,Tablet,Delivered,598.0,538.2
+462,2025-06-28 10:46:00,1179,Other,18,Mumbai,Beauty,Moisturizer,2,399.0,20,Cash on Delivery,Desktop,Delivered,798.0,638.4000000000001
+463,2025-08-19 09:52:00,1154,Female,37,Jaipur,Books,Data Analytics,1,699.0,5,Debit Card,Tablet,Delivered,699.0,664.05
+464,2025-11-14 11:49:00,1001,Other,25,Delhi,Books,Fiction Novel,2,299.0,0,Net Banking,Mobile,Delivered,598.0,598.0
+465,2025-10-10 04:39:00,1017,Male,47,Chandigarh,Books,Fiction Novel,1,299.0,15,Debit Card,Desktop,Delivered,299.0,254.15
+466,2025-01-23 04:11:00,1083,Male,60,Bengaluru,Electronics,Wireless Earbuds,1,1499.0,0,UPI,Mobile,Delivered,1499.0,1499.0
+467,2025-09-08 16:39:00,1050,Female,59,Pune,Electronics,Wireless Earbuds,2,1499.0,15,Net Banking,Desktop,Delivered,2998.0,2548.2999999999997
+468,2025-09-09 02:29:00,1057,Female,28,Chandigarh,Books,Python Basics,1,499.0,5,UPI,Desktop,Delivered,499.0,474.04999999999995
+469,2025-11-12 08:33:00,1241,Other,31,Hyderabad,Beauty,Shampoo,2,299.0,0,UPI,Tablet,Delivered,598.0,598.0
+470,2025-02-21 23:14:00,1078,Male,35,Hyderabad,Electronics,Smart Watch,4,2499.0,0,Net Banking,Desktop,Delivered,9996.0,9996.0
+471,2025-08-01 23:06:00,1135,Female,20,Delhi,Fashion,Jeans,2,1299.0,20,Net Banking,Desktop,Delivered,2598.0,2078.4
+472,2025-10-09 12:32:00,1180,Female,31,Bengaluru,Beauty,Face Wash,1,249.0,5,Debit Card,Tablet,Delivered,249.0,236.54999999999998
+473,2025-06-16 11:26:00,1154,Female,37,Jaipur,Beauty,Shampoo,3,299.0,20,Cash on Delivery,Tablet,Delivered,897.0,717.6
+474,2025-05-11 11:28:00,1062,Other,23,Gurugram,Books,Data Analytics,1,699.0,20,Cash on Delivery,Desktop,Delivered,699.0,559.2
+475,2025-01-04 09:14:00,1009,Other,59,Chandigarh,Home,Mixer Grinder,1,2899.0,10,Credit Card,Desktop,Delivered,2899.0,2609.1
+476,2025-07-02 04:08:00,1211,Other,27,Jaipur,Home,Bedsheet,1,899.0,15,Debit Card,Desktop,Delivered,899.0,764.15
+477,2025-10-20 12:36:00,1064,Other,26,Rohtak,Fashion,Sneakers,2,2199.0,0,Credit Card,Tablet,Delivered,4398.0,4398.0
+478,2025-02-18 19:41:00,1084,Female,45,Bengaluru,Beauty,Moisturizer,1,399.0,20,Debit Card,Mobile,Delivered,399.0,319.20000000000005
+479,2025-06-28 13:26:00,1148,Male,29,Bengaluru,Beauty,Face Wash,2,249.0,10,UPI,Mobile,Delivered,498.0,448.2
+480,2025-01-28 09:33:00,1218,Female,37,Bengaluru,Books,Python Basics,2,499.0,15,UPI,Desktop,Delivered,998.0,848.3
+481,2025-08-17 19:36:00,1039,Male,53,Chandigarh,Home,Bedsheet,1,899.0,15,Net Banking,Mobile,Delivered,899.0,764.15
+482,2025-09-01 18:47:00,1075,Male,58,Delhi,Beauty,Moisturizer,1,399.0,0,UPI,Tablet,Delivered,399.0,399.0
+483,2025-03-11 15:35:00,1022,Other,32,Mumbai,Beauty,Sunscreen,2,499.0,5,Credit Card,Desktop,Delivered,998.0,948.0999999999999
+484,2025-08-09 10:43:00,1147,Other,27,Jaipur,Fashion,Jeans,1,1299.0,10,Net Banking,Mobile,Delivered,1299.0,1169.1000000000001
+485,2025-06-26 19:41:00,1106,Male,50,Gurugram,Beauty,Shampoo,1,299.0,10,UPI,Desktop,Delivered,299.0,269.1
+486,2025-01-23 07:12:00,1090,Female,47,Jaipur,Books,Fiction Novel,2,299.0,15,Debit Card,Mobile,Delivered,598.0,508.3
+487,2025-11-14 04:55:00,1219,Female,52,Chandigarh,Electronics,Wireless Earbuds,2,1499.0,5,Debit Card,Mobile,Delivered,2998.0,2848.1
+488,2025-06-19 06:47:00,1206,Female,46,Gurugram,Electronics,Bluetooth Speaker,1,1799.0,0,Net Banking,Mobile,Delivered,1799.0,1799.0
+489,2025-01-10 12:37:00,1134,Male,23,Bengaluru,Home,Storage Box,2,499.0,5,Net Banking,Mobile,Delivered,998.0,948.0999999999999
+490,2025-05-19 01:29:00,1016,Female,56,Mumbai,Home,Bedsheet,2,899.0,20,UPI,Mobile,Delivered,1798.0,1438.4
+491,2025-04-29 12:32:00,1070,Female,51,Hyderabad,Home,Mixer Grinder,1,2899.0,15,UPI,Desktop,Delivered,2899.0,2464.15
+492,2025-08-23 17:59:00,1153,Male,30,Hyderabad,Books,Python Basics,1,499.0,20,UPI,Mobile,Delivered,499.0,399.20000000000005
+493,2025-01-10 11:43:00,1136,Female,26,Mumbai,Home,Desk Lamp,1,699.0,5,Debit Card,Desktop,Delivered,699.0,664.05
+494,2025-07-18 00:35:00,1061,Male,21,Jaipur,Books,Business Strategy,2,599.0,10,Debit Card,Mobile,Delivered,1198.0,1078.2
+495,2025-09-24 21:39:00,1230,Male,34,Bengaluru,Beauty,Moisturizer,1,399.0,15,Credit Card,Desktop,Delivered,399.0,339.15
+496,2025-08-18 17:08:00,1040,Female,55,Bengaluru,Beauty,Shampoo,3,299.0,10,Credit Card,Tablet,Delivered,897.0,807.3000000000001
+497,2025-03-11 13:58:00,1139,Male,25,Gurugram,Fashion,Jeans,1,1299.0,20,Credit Card,Tablet,Cancelled,1299.0,1039.2
+498,2025-03-02 05:20:00,1235,Other,52,Delhi,Fashion,Sneakers,1,2199.0,20,Credit Card,Tablet,Delivered,2199.0,1759.2
+499,2025-03-19 06:06:00,1082,Female,30,Gurugram,Beauty,Sunscreen,1,499.0,10,Credit Card,Mobile,Delivered,499.0,449.1
+500,2025-04-29 19:14:00,1157,Male,35,Pune,Books,Business Strategy,2,599.0,20,Credit Card,Tablet,Delivered,1198.0,958.4000000000001
+501,2025-08-29 22:41:00,1021,Other,22,Delhi,Beauty,Moisturizer,1,399.0,20,Debit Card,Mobile,Delivered,399.0,319.20000000000005
+502,2025-01-17 13:48:00,1126,Other,53,Mumbai,Beauty,Moisturizer,1,399.0,5,UPI,Desktop,Cancelled,399.0,379.04999999999995
+503,2025-11-12 15:44:00,1057,Female,28,Chandigarh,Fashion,Jeans,1,1299.0,15,Debit Card,Desktop,Delivered,1299.0,1104.1499999999999
+504,2025-06-10 12:39:00,1110,Other,56,Delhi,Beauty,Face Wash,2,249.0,15,Net Banking,Tablet,Delivered,498.0,423.3
+505,2025-05-06 16:34:00,1165,Male,42,Lucknow,Electronics,Wireless Earbuds,1,1499.0,0,Cash on Delivery,Tablet,Delivered,1499.0,1499.0
+506,2025-07-23 09:49:00,1100,Male,30,Mumbai,Books,Python Basics,1,499.0,15,Debit Card,Desktop,Delivered,499.0,424.15
+507,2025-08-26 20:28:00,1076,Male,22,Delhi,Books,Python Basics,2,499.0,5,UPI,Tablet,Delivered,998.0,948.0999999999999
+508,2025-08-19 00:11:00,1047,Other,47,Chandigarh,Books,Data Analytics,1,699.0,10,Cash on Delivery,Tablet,Delivered,699.0,629.1
+509,2025-11-29 22:50:00,1230,Male,34,Bengaluru,Fashion,Jacket,1,1899.0,10,Credit Card,Tablet,Delivered,1899.0,1709.1000000000001
+510,2025-09-26 22:24:00,1024,Female,35,Hyderabad,Electronics,Power Bank,2,999.0,0,Net Banking,Tablet,Cancelled,1998.0,1998.0
+511,2025-06-21 18:55:00,1097,Male,42,Mumbai,Books,Fiction Novel,1,299.0,5,Credit Card,Mobile,Delivered,299.0,284.05
+512,2025-05-28 20:11:00,1046,Male,42,Bengaluru,Electronics,Power Bank,1,999.0,15,UPI,Mobile,Returned,999.0,849.15
+513,2025-09-13 17:51:00,1001,Other,25,Delhi,Books,Business Strategy,1,599.0,15,UPI,Tablet,Delivered,599.0,509.15
+514,2025-02-10 19:38:00,1061,Male,21,Jaipur,Fashion,Jacket,1,1899.0,15,UPI,Mobile,Delivered,1899.0,1614.1499999999999
+515,2025-01-29 20:22:00,1072,Male,39,Delhi,Books,Data Analytics,1,699.0,5,UPI,Mobile,Delivered,699.0,664.05
+516,2025-01-26 03:26:00,1171,Female,60,Gurugram,Books,Business Strategy,1,599.0,0,Credit Card,Mobile,Delivered,599.0,599.0
+517,2025-07-04 01:05:00,1157,Male,35,Pune,Books,Data Analytics,4,699.0,20,Debit Card,Desktop,Delivered,2796.0,2236.8
+518,2025-05-30 15:08:00,1098,Female,36,Bengaluru,Electronics,Power Bank,3,999.0,0,UPI,Tablet,Delivered,2997.0,2997.0
+519,2025-11-10 01:06:00,1085,Female,21,Gurugram,Books,Fiction Novel,1,299.0,5,Net Banking,Tablet,Returned,299.0,284.05
+520,2025-05-28 13:38:00,1136,Female,26,Mumbai,Electronics,Power Bank,2,999.0,20,Debit Card,Desktop,Delivered,1998.0,1598.4
+521,2025-09-24 23:40:00,1160,Male,25,Mumbai,Home,Bedsheet,2,899.0,15,Cash on Delivery,Desktop,Delivered,1798.0,1528.3
+522,2025-01-01 03:01:00,1227,Other,60,Delhi,Books,Data Analytics,2,699.0,5,Cash on Delivery,Tablet,Delivered,1398.0,1328.1
+523,2025-06-29 17:51:00,1189,Male,33,Hyderabad,Fashion,Jacket,1,1899.0,10,Credit Card,Mobile,Delivered,1899.0,1709.1000000000001
+524,2025-06-03 16:35:00,1177,Other,29,Lucknow,Home,Desk Lamp,2,699.0,10,Debit Card,Mobile,Delivered,1398.0,1258.2
+525,2025-01-15 05:12:00,1086,Male,43,Pune,Home,Storage Box,2,499.0,20,Debit Card,Desktop,Cancelled,998.0,798.4000000000001
+526,2025-03-21 20:29:00,1123,Female,28,Hyderabad,Beauty,Face Wash,2,249.0,15,Net Banking,Desktop,Delivered,498.0,423.3
+527,2025-10-17 23:43:00,1209,Other,23,Rohtak,Beauty,Face Wash,3,249.0,10,Debit Card,Tablet,Delivered,747.0,672.3000000000001
+528,2025-02-03 04:17:00,1054,Male,50,Gurugram,Books,Business Strategy,2,599.0,10,UPI,Desktop,Returned,1198.0,1078.2
+529,2025-04-06 19:07:00,1161,Male,55,Mumbai,Books,Data Analytics,2,699.0,15,Debit Card,Tablet,Delivered,1398.0,1188.3
+530,2025-05-02 11:28:00,1182,Female,46,Hyderabad,Electronics,Bluetooth Speaker,1,1799.0,15,Debit Card,Mobile,Delivered,1799.0,1529.1499999999999
+531,2025-02-17 14:32:00,1045,Other,45,Lucknow,Electronics,Bluetooth Speaker,2,1799.0,5,UPI,Desktop,Cancelled,3598.0,3418.1
+532,2025-06-08 10:09:00,1040,Female,55,Bengaluru,Fashion,Sneakers,3,2199.0,20,UPI,Tablet,Delivered,6597.0,5277.6
+533,2025-03-01 00:19:00,1034,Female,35,Gurugram,Fashion,T-Shirt,1,599.0,20,UPI,Tablet,Delivered,599.0,479.20000000000005
+534,2025-02-22 16:49:00,1224,Other,28,Hyderabad,Electronics,Bluetooth Speaker,1,1799.0,0,Debit Card,Mobile,Delivered,1799.0,1799.0
+535,2025-05-22 17:20:00,1080,Other,54,Lucknow,Fashion,Sneakers,1,2199.0,10,Cash on Delivery,Tablet,Delivered,2199.0,1979.1000000000001
+536,2025-10-14 16:06:00,1039,Male,53,Chandigarh,Fashion,Sneakers,1,2199.0,20,Credit Card,Tablet,Delivered,2199.0,1759.2
+537,2025-10-21 07:10:00,1082,Female,30,Gurugram,Home,Bedsheet,3,899.0,10,UPI,Desktop,Delivered,2697.0,2427.3
+538,2025-08-30 21:03:00,1087,Male,33,Jaipur,Books,Fiction Novel,1,299.0,0,UPI,Desktop,Delivered,299.0,299.0
+539,2025-11-19 22:44:00,1110,Other,56,Delhi,Beauty,Moisturizer,2,399.0,20,Cash on Delivery,Tablet,Delivered,798.0,638.4000000000001
+540,2025-10-18 04:05:00,1086,Male,43,Pune,Fashion,T-Shirt,4,599.0,15,Cash on Delivery,Mobile,Delivered,2396.0,2036.6
+541,2025-03-15 19:16:00,1176,Female,60,Bengaluru,Beauty,Sunscreen,1,499.0,5,Debit Card,Desktop,Delivered,499.0,474.04999999999995
+542,2025-02-03 15:07:00,1235,Other,52,Delhi,Home,Desk Lamp,1,699.0,0,Debit Card,Desktop,Delivered,699.0,699.0
+543,2025-09-18 03:25:00,1044,Male,27,Rohtak,Home,Desk Lamp,2,699.0,5,UPI,Desktop,Delivered,1398.0,1328.1
+544,2025-05-03 19:15:00,1019,Other,36,Lucknow,Home,Storage Box,1,499.0,15,Net Banking,Mobile,Returned,499.0,424.15
+545,2025-08-09 13:36:00,1099,Other,53,Hyderabad,Electronics,Bluetooth Speaker,1,1799.0,20,Debit Card,Tablet,Delivered,1799.0,1439.2
+546,2025-08-26 10:35:00,1045,Other,45,Lucknow,Electronics,Power Bank,1,999.0,20,UPI,Desktop,Delivered,999.0,799.2
+547,2025-07-14 10:31:00,1245,Female,24,Lucknow,Beauty,Face Wash,2,249.0,20,UPI,Mobile,Delivered,498.0,398.40000000000003
+548,2025-08-20 17:18:00,1036,Male,59,Hyderabad,Books,Python Basics,2,499.0,5,Cash on Delivery,Tablet,Delivered,998.0,948.0999999999999
+549,2025-08-11 22:58:00,1051,Male,36,Bengaluru,Fashion,Sneakers,1,2199.0,10,Debit Card,Mobile,Delivered,2199.0,1979.1000000000001
+550,2025-02-01 11:57:00,1157,Male,35,Pune,Books,Fiction Novel,3,299.0,10,Net Banking,Mobile,Delivered,897.0,807.3000000000001
+551,2025-05-01 13:44:00,1144,Female,20,Pune,Home,Mixer Grinder,3,2899.0,0,Net Banking,Desktop,Delivered,8697.0,8697.0
+552,2025-04-19 21:11:00,1183,Other,31,Chandigarh,Beauty,Sunscreen,1,499.0,20,Cash on Delivery,Mobile,Delivered,499.0,399.20000000000005
+553,2025-03-10 00:04:00,1099,Other,53,Hyderabad,Home,Storage Box,1,499.0,5,UPI,Mobile,Delivered,499.0,474.04999999999995
+554,2025-08-22 22:38:00,1125,Other,51,Delhi,Beauty,Moisturizer,1,399.0,15,Cash on Delivery,Tablet,Delivered,399.0,339.15
+555,2025-04-06 13:38:00,1131,Male,39,Jaipur,Beauty,Sunscreen,1,499.0,5,UPI,Tablet,Delivered,499.0,474.04999999999995
+556,2025-10-23 11:02:00,1188,Male,27,Delhi,Fashion,Sneakers,1,2199.0,20,UPI,Tablet,Delivered,2199.0,1759.2
+557,2025-03-14 23:46:00,1095,Female,31,Bengaluru,Electronics,Power Bank,4,999.0,0,Net Banking,Desktop,Delivered,3996.0,3996.0
+558,2025-11-21 17:51:00,1021,Other,22,Delhi,Books,Python Basics,1,499.0,0,Net Banking,Desktop,Delivered,499.0,499.0
+559,2025-08-29 18:46:00,1232,Female,39,Bengaluru,Home,Mixer Grinder,1,2899.0,20,Debit Card,Desktop,Delivered,2899.0,2319.2000000000003
+560,2025-06-05 23:50:00,1205,Other,49,Jaipur,Home,Desk Lamp,1,699.0,20,Net Banking,Desktop,Delivered,699.0,559.2
+561,2025-11-16 00:18:00,1122,Male,33,Pune,Books,Data Analytics,2,699.0,10,Cash on Delivery,Mobile,Delivered,1398.0,1258.2
+562,2025-05-21 08:00:00,1020,Female,54,Jaipur,Home,Desk Lamp,1,699.0,10,UPI,Tablet,Delivered,699.0,629.1
+563,2025-05-14 22:15:00,1152,Female,20,Hyderabad,Fashion,Jacket,1,1899.0,5,Cash on Delivery,Mobile,Delivered,1899.0,1804.05
+564,2025-11-01 04:53:00,1221,Male,35,Bengaluru,Electronics,Bluetooth Speaker,4,1799.0,5,Cash on Delivery,Desktop,Delivered,7196.0,6836.2
+565,2025-01-28 20:16:00,1061,Male,21,Jaipur,Beauty,Moisturizer,1,399.0,10,UPI,Mobile,Delivered,399.0,359.1
+566,2025-04-30 12:43:00,1103,Other,38,Delhi,Beauty,Shampoo,1,299.0,20,Cash on Delivery,Desktop,Delivered,299.0,239.20000000000002
+567,2025-07-15 21:20:00,1136,Female,26,Mumbai,Beauty,Face Wash,1,249.0,15,Net Banking,Tablet,Cancelled,249.0,211.65
+568,2025-11-09 20:54:00,1025,Other,41,Rohtak,Books,Business Strategy,4,599.0,15,Debit Card,Desktop,Delivered,2396.0,2036.6
+569,2025-08-25 21:47:00,1206,Female,46,Gurugram,Electronics,Bluetooth Speaker,2,1799.0,15,Credit Card,Tablet,Delivered,3598.0,3058.2999999999997
+570,2025-06-10 17:00:00,1198,Male,47,Rohtak,Fashion,Sneakers,2,2199.0,5,UPI,Mobile,Delivered,4398.0,4178.099999999999
+571,2025-04-23 23:18:00,1026,Female,40,Jaipur,Books,Python Basics,2,499.0,10,Debit Card,Mobile,Delivered,998.0,898.2
+572,2025-11-03 20:07:00,1159,Other,52,Pune,Electronics,Wireless Earbuds,3,1499.0,5,UPI,Mobile,Delivered,4497.0,4272.15
+573,2025-05-10 09:29:00,1034,Female,35,Gurugram,Beauty,Moisturizer,3,399.0,5,UPI,Tablet,Delivered,1197.0,1137.1499999999999
+574,2025-05-22 01:24:00,1071,Male,33,Jaipur,Beauty,Shampoo,1,299.0,0,Cash on Delivery,Desktop,Returned,299.0,299.0
+575,2025-04-13 19:25:00,1067,Other,45,Jaipur,Home,Bedsheet,1,899.0,15,Credit Card,Tablet,Delivered,899.0,764.15
+576,2025-08-15 22:16:00,1037,Female,59,Hyderabad,Books,Fiction Novel,1,299.0,0,UPI,Mobile,Delivered,299.0,299.0
+577,2025-03-18 20:40:00,1147,Other,27,Jaipur,Home,Storage Box,1,499.0,15,UPI,Mobile,Delivered,499.0,424.15
+578,2025-01-02 16:45:00,1069,Female,60,Pune,Fashion,Sneakers,3,2199.0,20,Cash on Delivery,Desktop,Delivered,6597.0,5277.6
+579,2025-03-04 18:34:00,1217,Female,48,Delhi,Electronics,Smart Watch,1,2499.0,15,Debit Card,Desktop,Delivered,2499.0,2124.15
+580,2025-02-11 14:48:00,1103,Other,38,Delhi,Electronics,Wireless Earbuds,1,1499.0,10,Debit Card,Tablet,Delivered,1499.0,1349.1000000000001
+581,2025-07-19 03:40:00,1142,Other,27,Bengaluru,Electronics,Power Bank,2,999.0,10,Debit Card,Desktop,Delivered,1998.0,1798.2
+582,2025-01-13 23:37:00,1162,Male,24,Lucknow,Beauty,Moisturizer,1,399.0,5,Credit Card,Desktop,Delivered,399.0,379.04999999999995
+583,2025-01-09 01:21:00,1203,Male,48,Hyderabad,Books,Business Strategy,1,599.0,15,UPI,Desktop,Delivered,599.0,509.15
+584,2025-08-23 21:55:00,1011,Other,35,Delhi,Beauty,Face Wash,1,249.0,20,Net Banking,Mobile,Delivered,249.0,199.20000000000002
+585,2025-01-10 15:58:00,1060,Male,41,Mumbai,Electronics,Wireless Earbuds,2,1499.0,15,Net Banking,Mobile,Delivered,2998.0,2548.2999999999997
+586,2025-06-07 03:29:00,1167,Other,45,Delhi,Fashion,T-Shirt,1,599.0,0,Net Banking,Mobile,Delivered,599.0,599.0
+587,2025-04-23 02:51:00,1017,Male,47,Chandigarh,Electronics,Wireless Earbuds,1,1499.0,20,Credit Card,Desktop,Delivered,1499.0,1199.2
+588,2025-10-07 04:20:00,1214,Female,21,Jaipur,Beauty,Shampoo,1,299.0,20,Credit Card,Mobile,Delivered,299.0,239.20000000000002
+589,2025-03-28 22:23:00,1086,Male,43,Pune,Electronics,Wireless Earbuds,1,1499.0,15,Net Banking,Mobile,Delivered,1499.0,1274.1499999999999
+590,2025-07-12 05:01:00,1237,Other,20,Delhi,Books,Python Basics,1,499.0,20,Cash on Delivery,Mobile,Delivered,499.0,399.20000000000005
+591,2025-03-06 06:09:00,1046,Male,42,Bengaluru,Electronics,Bluetooth Speaker,1,1799.0,15,Debit Card,Tablet,Delivered,1799.0,1529.1499999999999
+592,2025-11-10 02:40:00,1062,Other,23,Gurugram,Fashion,T-Shirt,2,599.0,15,Debit Card,Desktop,Delivered,1198.0,1018.3
+593,2025-02-18 19:23:00,1143,Male,20,Mumbai,Fashion,Jeans,1,1299.0,20,Net Banking,Tablet,Delivered,1299.0,1039.2
+594,2025-03-18 21:54:00,1198,Male,47,Rohtak,Fashion,Sneakers,1,2199.0,0,Cash on Delivery,Desktop,Delivered,2199.0,2199.0
+595,2025-04-18 13:16:00,1172,Other,37,Chandigarh,Electronics,Wireless Earbuds,2,1499.0,10,Debit Card,Tablet,Delivered,2998.0,2698.2000000000003
+596,2025-10-03 05:10:00,1195,Female,32,Rohtak,Beauty,Face Wash,1,249.0,0,UPI,Desktop,Delivered,249.0,249.0
+597,2025-08-03 06:47:00,1019,Other,36,Lucknow,Fashion,Jacket,2,1899.0,10,Debit Card,Mobile,Delivered,3798.0,3418.2000000000003
+598,2025-04-13 12:57:00,1084,Female,45,Bengaluru,Fashion,T-Shirt,1,599.0,15,Credit Card,Mobile,Delivered,599.0,509.15
+599,2025-08-21 05:24:00,1125,Other,51,Delhi,Electronics,Power Bank,1,999.0,20,Debit Card,Mobile,Delivered,999.0,799.2
+600,2025-01-17 22:36:00,1050,Female,59,Pune,Home,Desk Lamp,1,699.0,5,UPI,Desktop,Delivered,699.0,664.05
+601,2025-04-23 09:38:00,1219,Female,52,Chandigarh,Beauty,Sunscreen,1,499.0,10,Credit Card,Tablet,Cancelled,499.0,449.1
+602,2025-09-08 06:37:00,1232,Female,39,Bengaluru,Fashion,Jeans,1,1299.0,20,Cash on Delivery,Desktop,Delivered,1299.0,1039.2
+603,2025-10-24 07:57:00,1187,Other,37,Jaipur,Beauty,Moisturizer,1,399.0,15,Net Banking,Mobile,Cancelled,399.0,339.15
+604,2025-08-29 23:49:00,1230,Male,34,Bengaluru,Electronics,Power Bank,4,999.0,0,Net Banking,Mobile,Delivered,3996.0,3996.0
+605,2025-02-12 17:48:00,1101,Male,21,Lucknow,Beauty,Face Wash,1,249.0,5,UPI,Tablet,Delivered,249.0,236.54999999999998
+606,2025-11-28 02:01:00,1244,Other,25,Rohtak,Fashion,Jeans,1,1299.0,5,Cash on Delivery,Tablet,Delivered,1299.0,1234.05
+607,2025-03-12 22:25:00,1181,Other,56,Pune,Beauty,Face Wash,4,249.0,15,Credit Card,Desktop,Delivered,996.0,846.6
+608,2025-09-29 01:18:00,1181,Other,56,Pune,Electronics,Wireless Earbuds,1,1499.0,10,Cash on Delivery,Desktop,Delivered,1499.0,1349.1000000000001
+609,2025-11-14 10:47:00,1157,Male,35,Pune,Books,Data Analytics,2,699.0,0,UPI,Tablet,Cancelled,1398.0,1398.0
+610,2025-08-27 19:02:00,1173,Female,60,Bengaluru,Home,Mixer Grinder,1,2899.0,10,Debit Card,Desktop,Delivered,2899.0,2609.1
+611,2025-05-03 17:07:00,1144,Female,20,Pune,Electronics,Smart Watch,1,2499.0,10,Cash on Delivery,Tablet,Cancelled,2499.0,2249.1
+612,2025-09-15 21:27:00,1149,Male,29,Pune,Fashion,Jeans,1,1299.0,10,Debit Card,Mobile,Delivered,1299.0,1169.1000000000001
+613,2025-08-29 22:34:00,1089,Male,45,Rohtak,Beauty,Sunscreen,1,499.0,0,Net Banking,Desktop,Delivered,499.0,499.0
+614,2025-02-14 02:25:00,1095,Female,31,Bengaluru,Electronics,Smart Watch,3,2499.0,15,Credit Card,Desktop,Cancelled,7497.0,6372.45
+615,2025-09-12 04:55:00,1020,Female,54,Jaipur,Electronics,Smart Watch,1,2499.0,5,Credit Card,Tablet,Cancelled,2499.0,2374.0499999999997
+616,2025-03-09 15:22:00,1006,Male,23,Jaipur,Home,Storage Box,4,499.0,20,Cash on Delivery,Desktop,Delivered,1996.0,1596.8000000000002
+617,2025-09-24 20:21:00,1006,Male,23,Jaipur,Home,Bedsheet,1,899.0,5,Cash on Delivery,Tablet,Delivered,899.0,854.05
+618,2025-10-08 14:29:00,1166,Male,34,Delhi,Home,Storage Box,2,499.0,20,Debit Card,Tablet,Delivered,998.0,798.4000000000001
+619,2025-09-05 11:18:00,1203,Male,48,Hyderabad,Home,Bedsheet,2,899.0,5,UPI,Mobile,Delivered,1798.0,1708.1
+620,2025-04-04 05:53:00,1117,Female,38,Gurugram,Fashion,Jeans,2,1299.0,10,Credit Card,Mobile,Delivered,2598.0,2338.2000000000003
+621,2025-04-05 06:35:00,1011,Other,35,Delhi,Home,Bedsheet,1,899.0,10,UPI,Tablet,Delivered,899.0,809.1
+622,2025-10-01 09:07:00,1089,Male,45,Rohtak,Fashion,Sneakers,1,2199.0,5,UPI,Desktop,Cancelled,2199.0,2089.0499999999997
+623,2025-01-03 23:34:00,1197,Male,53,Jaipur,Fashion,Jacket,3,1899.0,5,Net Banking,Desktop,Delivered,5697.0,5412.15
+624,2025-03-17 18:46:00,1076,Male,22,Delhi,Beauty,Shampoo,4,299.0,20,Cash on Delivery,Desktop,Delivered,1196.0,956.8000000000001
+625,2025-03-01 09:01:00,1188,Male,27,Delhi,Beauty,Face Wash,1,249.0,20,Cash on Delivery,Tablet,Delivered,249.0,199.20000000000002
+626,2025-11-25 06:37:00,1115,Male,34,Bengaluru,Home,Mixer Grinder,1,2899.0,20,Net Banking,Mobile,Delivered,2899.0,2319.2000000000003
+627,2025-08-17 21:42:00,1197,Male,53,Jaipur,Home,Bedsheet,1,899.0,20,UPI,Tablet,Delivered,899.0,719.2
+628,2025-07-23 04:45:00,1126,Other,53,Mumbai,Home,Mixer Grinder,3,2899.0,10,Cash on Delivery,Desktop,Delivered,8697.0,7827.3
+629,2025-10-15 02:13:00,1004,Other,52,Gurugram,Home,Desk Lamp,1,699.0,15,Cash on Delivery,Tablet,Returned,699.0,594.15
+630,2025-08-01 04:53:00,1206,Female,46,Gurugram,Beauty,Shampoo,1,299.0,15,Net Banking,Tablet,Delivered,299.0,254.15
+631,2025-06-21 02:59:00,1054,Male,50,Gurugram,Home,Storage Box,4,499.0,20,Net Banking,Desktop,Delivered,1996.0,1596.8000000000002
+632,2025-10-18 04:12:00,1105,Other,51,Rohtak,Home,Storage Box,1,499.0,15,Credit Card,Desktop,Delivered,499.0,424.15
+633,2025-09-10 17:47:00,1126,Other,53,Mumbai,Electronics,Bluetooth Speaker,3,1799.0,10,Cash on Delivery,Mobile,Delivered,5397.0,4857.3
+634,2025-03-05 20:42:00,1001,Other,25,Delhi,Fashion,Sneakers,1,2199.0,15,Debit Card,Desktop,Delivered,2199.0,1869.1499999999999
+635,2025-09-10 02:38:00,1233,Female,44,Mumbai,Fashion,T-Shirt,1,599.0,10,Debit Card,Tablet,Delivered,599.0,539.1
+636,2025-07-11 16:46:00,1112,Other,55,Lucknow,Home,Storage Box,4,499.0,0,Net Banking,Mobile,Delivered,1996.0,1996.0
+637,2025-03-11 11:10:00,1042,Male,26,Chandigarh,Books,Python Basics,1,499.0,15,UPI,Desktop,Delivered,499.0,424.15
+638,2025-11-24 02:32:00,1163,Female,40,Pune,Home,Mixer Grinder,1,2899.0,20,Credit Card,Tablet,Delivered,2899.0,2319.2000000000003
+639,2025-06-04 08:43:00,1025,Other,41,Rohtak,Books,Data Analytics,1,699.0,10,Debit Card,Mobile,Delivered,699.0,629.1
+640,2025-07-10 15:26:00,1091,Male,46,Chandigarh,Fashion,T-Shirt,1,599.0,10,Debit Card,Mobile,Delivered,599.0,539.1
+641,2025-11-11 22:53:00,1040,Female,55,Bengaluru,Books,Data Analytics,3,699.0,20,Net Banking,Tablet,Delivered,2097.0,1677.6000000000001
+642,2025-03-01 04:59:00,1180,Female,31,Bengaluru,Electronics,Power Bank,1,999.0,0,UPI,Desktop,Delivered,999.0,999.0
+643,2025-09-25 10:11:00,1177,Other,29,Lucknow,Home,Bedsheet,2,899.0,20,Debit Card,Mobile,Delivered,1798.0,1438.4
+644,2025-04-27 09:08:00,1031,Other,53,Jaipur,Fashion,Jeans,3,1299.0,5,Credit Card,Mobile,Returned,3897.0,3702.1499999999996
+645,2025-08-09 01:12:00,1109,Male,54,Jaipur,Electronics,Wireless Earbuds,1,1499.0,15,UPI,Mobile,Delivered,1499.0,1274.1499999999999
+646,2025-01-23 02:19:00,1132,Other,58,Mumbai,Books,Python Basics,1,499.0,10,UPI,Mobile,Delivered,499.0,449.1
+647,2025-04-05 21:22:00,1236,Female,32,Gurugram,Books,Data Analytics,2,699.0,5,UPI,Mobile,Delivered,1398.0,1328.1
+648,2025-11-10 07:32:00,1192,Male,42,Hyderabad,Home,Desk Lamp,1,699.0,20,Net Banking,Mobile,Delivered,699.0,559.2
+649,2025-03-29 17:00:00,1149,Male,29,Pune,Electronics,Smart Watch,2,2499.0,10,UPI,Mobile,Cancelled,4998.0,4498.2
+650,2025-08-14 21:06:00,1218,Female,37,Bengaluru,Beauty,Shampoo,2,299.0,5,Credit Card,Desktop,Returned,598.0,568.1
+651,2025-03-05 14:07:00,1109,Male,54,Jaipur,Fashion,Jeans,1,1299.0,10,Net Banking,Mobile,Delivered,1299.0,1169.1000000000001
+652,2025-03-01 12:18:00,1093,Male,23,Jaipur,Home,Mixer Grinder,1,2899.0,15,Cash on Delivery,Tablet,Delivered,2899.0,2464.15
+653,2025-08-08 06:54:00,1176,Female,60,Bengaluru,Beauty,Moisturizer,2,399.0,10,UPI,Desktop,Cancelled,798.0,718.2
+654,2025-02-23 12:28:00,1095,Female,31,Bengaluru,Fashion,T-Shirt,4,599.0,15,Net Banking,Tablet,Delivered,2396.0,2036.6
+655,2025-02-22 23:59:00,1031,Other,53,Jaipur,Fashion,Jacket,1,1899.0,20,Credit Card,Mobile,Delivered,1899.0,1519.2
+656,2025-03-04 07:53:00,1051,Male,36,Bengaluru,Home,Bedsheet,2,899.0,15,Cash on Delivery,Tablet,Delivered,1798.0,1528.3
+657,2025-07-02 15:42:00,1196,Other,51,Hyderabad,Books,Business Strategy,2,599.0,15,Net Banking,Desktop,Returned,1198.0,1018.3
+658,2025-03-04 08:31:00,1131,Male,39,Jaipur,Home,Bedsheet,2,899.0,0,Cash on Delivery,Mobile,Delivered,1798.0,1798.0
+659,2025-09-13 21:01:00,1035,Male,54,Pune,Electronics,Wireless Earbuds,2,1499.0,0,Credit Card,Desktop,Delivered,2998.0,2998.0
+660,2025-02-09 21:48:00,1084,Female,45,Bengaluru,Fashion,Sneakers,2,2199.0,0,Net Banking,Desktop,Delivered,4398.0,4398.0
+661,2025-10-05 10:51:00,1052,Male,47,Delhi,Home,Storage Box,1,499.0,10,Net Banking,Tablet,Delivered,499.0,449.1
+662,2025-07-16 14:20:00,1196,Other,51,Hyderabad,Electronics,Power Bank,3,999.0,0,Cash on Delivery,Desktop,Delivered,2997.0,2997.0
+663,2025-09-09 13:08:00,1009,Other,59,Chandigarh,Fashion,Sneakers,3,2199.0,5,Debit Card,Tablet,Delivered,6597.0,6267.15
+664,2025-10-20 15:30:00,1196,Other,51,Hyderabad,Electronics,Power Bank,2,999.0,20,Net Banking,Mobile,Delivered,1998.0,1598.4
+665,2025-11-12 21:22:00,1101,Male,21,Lucknow,Home,Storage Box,2,499.0,15,Debit Card,Desktop,Delivered,998.0,848.3
+666,2025-10-26 00:48:00,1152,Female,20,Hyderabad,Electronics,Smart Watch,3,2499.0,10,Debit Card,Desktop,Delivered,7497.0,6747.3
+667,2025-05-07 07:41:00,1089,Male,45,Rohtak,Home,Storage Box,1,499.0,5,Debit Card,Tablet,Delivered,499.0,474.04999999999995
+668,2025-01-11 17:20:00,1177,Other,29,Lucknow,Electronics,Bluetooth Speaker,1,1799.0,5,UPI,Desktop,Delivered,1799.0,1709.05
+669,2025-10-29 00:20:00,1109,Male,54,Jaipur,Books,Fiction Novel,1,299.0,15,Cash on Delivery,Tablet,Delivered,299.0,254.15
+670,2025-06-22 15:32:00,1147,Other,27,Jaipur,Electronics,Power Bank,1,999.0,5,Debit Card,Mobile,Delivered,999.0,949.05
+671,2025-10-02 06:18:00,1094,Male,44,Hyderabad,Beauty,Moisturizer,1,399.0,0,Debit Card,Mobile,Delivered,399.0,399.0
+672,2025-10-24 03:37:00,1147,Other,27,Jaipur,Beauty,Moisturizer,2,399.0,0,Debit Card,Desktop,Delivered,798.0,798.0
+673,2025-02-09 20:52:00,1206,Female,46,Gurugram,Books,Fiction Novel,1,299.0,10,Debit Card,Tablet,Delivered,299.0,269.1
+674,2025-05-09 19:32:00,1111,Other,23,Bengaluru,Books,Business Strategy,1,599.0,15,Cash on Delivery,Tablet,Delivered,599.0,509.15
+675,2025-08-28 08:59:00,1047,Other,47,Chandigarh,Electronics,Smart Watch,2,2499.0,5,Net Banking,Tablet,Delivered,4998.0,4748.099999999999
+676,2025-08-25 04:15:00,1233,Female,44,Mumbai,Beauty,Face Wash,1,249.0,10,Credit Card,Tablet,Delivered,249.0,224.1
+677,2025-11-21 06:54:00,1077,Female,22,Chandigarh,Beauty,Sunscreen,1,499.0,0,Cash on Delivery,Desktop,Delivered,499.0,499.0
+678,2025-07-27 07:07:00,1166,Male,34,Delhi,Fashion,Sneakers,2,2199.0,5,Credit Card,Mobile,Delivered,4398.0,4178.099999999999
+679,2025-08-05 20:57:00,1205,Other,49,Jaipur,Home,Storage Box,1,499.0,15,UPI,Mobile,Delivered,499.0,424.15
+680,2025-10-09 05:41:00,1035,Male,54,Pune,Electronics,Bluetooth Speaker,2,1799.0,10,UPI,Tablet,Delivered,3598.0,3238.2000000000003
+681,2025-02-02 13:57:00,1006,Male,23,Jaipur,Electronics,Wireless Earbuds,1,1499.0,10,Debit Card,Tablet,Delivered,1499.0,1349.1000000000001
+682,2025-09-14 03:33:00,1024,Female,35,Hyderabad,Beauty,Moisturizer,1,399.0,20,Net Banking,Tablet,Delivered,399.0,319.20000000000005
+683,2025-06-18 18:47:00,1227,Other,60,Delhi,Electronics,Smart Watch,2,2499.0,10,Cash on Delivery,Tablet,Delivered,4998.0,4498.2
+684,2025-04-20 08:28:00,1240,Male,48,Gurugram,Beauty,Moisturizer,1,399.0,5,Cash on Delivery,Desktop,Delivered,399.0,379.04999999999995
+685,2025-06-12 17:27:00,1015,Female,24,Pune,Beauty,Shampoo,2,299.0,0,Cash on Delivery,Tablet,Delivered,598.0,598.0
+686,2025-06-07 00:41:00,1072,Male,39,Delhi,Fashion,Sneakers,1,2199.0,10,Net Banking,Mobile,Delivered,2199.0,1979.1000000000001
+687,2025-06-08 20:44:00,1170,Other,39,Lucknow,Electronics,Smart Watch,1,2499.0,15,Debit Card,Tablet,Delivered,2499.0,2124.15
+688,2025-05-11 09:05:00,1222,Female,19,Bengaluru,Fashion,Jacket,1,1899.0,15,Credit Card,Desktop,Delivered,1899.0,1614.1499999999999
+689,2025-01-18 08:55:00,1228,Male,59,Bengaluru,Fashion,Jacket,2,1899.0,15,UPI,Desktop,Delivered,3798.0,3228.2999999999997
+690,2025-03-24 22:16:00,1106,Male,50,Gurugram,Home,Storage Box,3,499.0,0,Net Banking,Mobile,Delivered,1497.0,1497.0
+691,2025-01-27 20:41:00,1155,Male,19,Jaipur,Books,Business Strategy,1,599.0,0,Credit Card,Tablet,Delivered,599.0,599.0
+692,2025-06-10 18:05:00,1165,Male,42,Lucknow,Fashion,T-Shirt,1,599.0,10,UPI,Mobile,Delivered,599.0,539.1
+693,2025-08-20 15:55:00,1183,Other,31,Chandigarh,Fashion,Jacket,2,1899.0,10,Credit Card,Desktop,Delivered,3798.0,3418.2000000000003
+694,2025-07-08 05:25:00,1152,Female,20,Hyderabad,Home,Desk Lamp,1,699.0,15,Cash on Delivery,Tablet,Delivered,699.0,594.15
+695,2025-04-12 08:44:00,1243,Male,56,Lucknow,Electronics,Smart Watch,3,2499.0,15,Credit Card,Mobile,Delivered,7497.0,6372.45
+696,2025-03-29 18:07:00,1110,Other,56,Delhi,Books,Business Strategy,1,599.0,10,UPI,Tablet,Delivered,599.0,539.1
+697,2025-04-08 08:18:00,1198,Male,47,Rohtak,Beauty,Sunscreen,1,499.0,5,Cash on Delivery,Desktop,Delivered,499.0,474.04999999999995
+698,2025-04-07 13:11:00,1220,Other,32,Hyderabad,Fashion,Jeans,4,1299.0,10,Cash on Delivery,Mobile,Delivered,5196.0,4676.400000000001
+699,2025-07-09 18:43:00,1250,Male,37,Lucknow,Home,Bedsheet,2,899.0,5,Cash on Delivery,Mobile,Delivered,1798.0,1708.1
+700,2025-08-05 23:38:00,1035,Male,54,Pune,Home,Storage Box,2,499.0,15,Debit Card,Mobile,Delivered,998.0,848.3
+701,2025-07-01 19:42:00,1016,Female,56,Mumbai,Electronics,Bluetooth Speaker,3,1799.0,15,Net Banking,Tablet,Delivered,5397.0,4587.45
+702,2025-06-04 12:42:00,1012,Male,45,Pune,Electronics,Bluetooth Speaker,1,1799.0,15,Debit Card,Mobile,Returned,1799.0,1529.1499999999999
+703,2025-09-10 10:56:00,1144,Female,20,Pune,Electronics,Smart Watch,1,2499.0,20,Cash on Delivery,Mobile,Delivered,2499.0,1999.2
+704,2025-06-10 01:08:00,1182,Female,46,Hyderabad,Books,Fiction Novel,1,299.0,0,Cash on Delivery,Desktop,Delivered,299.0,299.0
+705,2025-11-10 08:33:00,1238,Male,30,Delhi,Beauty,Shampoo,3,299.0,10,Debit Card,Desktop,Delivered,897.0,807.3000000000001
+706,2025-01-28 06:09:00,1081,Female,33,Hyderabad,Beauty,Moisturizer,2,399.0,15,UPI,Mobile,Delivered,798.0,678.3
+707,2025-03-01 15:02:00,1121,Female,26,Pune,Home,Bedsheet,2,899.0,15,Cash on Delivery,Desktop,Returned,1798.0,1528.3
+708,2025-03-05 11:05:00,1144,Female,20,Pune,Beauty,Sunscreen,1,499.0,5,Credit Card,Desktop,Delivered,499.0,474.04999999999995
+709,2025-04-19 18:00:00,1044,Male,27,Rohtak,Books,Business Strategy,2,599.0,20,Net Banking,Tablet,Delivered,1198.0,958.4000000000001
+710,2025-06-18 00:18:00,1236,Female,32,Gurugram,Electronics,Smart Watch,2,2499.0,0,UPI,Desktop,Delivered,4998.0,4998.0
+711,2025-08-24 22:42:00,1238,Male,30,Delhi,Electronics,Bluetooth Speaker,1,1799.0,0,Cash on Delivery,Desktop,Delivered,1799.0,1799.0
+712,2025-11-15 14:20:00,1069,Female,60,Pune,Books,Python Basics,1,499.0,0,Net Banking,Mobile,Delivered,499.0,499.0
+713,2025-10-08 19:24:00,1013,Female,27,Jaipur,Home,Desk Lamp,2,699.0,0,UPI,Desktop,Delivered,1398.0,1398.0
+714,2025-03-25 12:49:00,1062,Other,23,Gurugram,Beauty,Face Wash,1,249.0,5,Cash on Delivery,Desktop,Delivered,249.0,236.54999999999998
+715,2025-06-08 21:38:00,1245,Female,24,Lucknow,Fashion,T-Shirt,1,599.0,15,Credit Card,Desktop,Delivered,599.0,509.15
+716,2025-09-01 08:36:00,1214,Female,21,Jaipur,Home,Bedsheet,1,899.0,15,Net Banking,Desktop,Delivered,899.0,764.15
+717,2025-02-17 01:32:00,1109,Male,54,Jaipur,Home,Bedsheet,1,899.0,15,Debit Card,Desktop,Delivered,899.0,764.15
+718,2025-02-12 09:29:00,1166,Male,34,Delhi,Fashion,Jacket,1,1899.0,20,Cash on Delivery,Mobile,Cancelled,1899.0,1519.2
+719,2025-05-08 16:27:00,1123,Female,28,Hyderabad,Home,Bedsheet,4,899.0,10,Debit Card,Tablet,Delivered,3596.0,3236.4
+720,2025-02-18 14:42:00,1020,Female,54,Jaipur,Electronics,Wireless Earbuds,1,1499.0,15,Net Banking,Desktop,Delivered,1499.0,1274.1499999999999
+721,2025-04-02 05:53:00,1150,Female,60,Jaipur,Electronics,Wireless Earbuds,1,1499.0,15,Cash on Delivery,Mobile,Delivered,1499.0,1274.1499999999999
+722,2025-08-19 19:51:00,1225,Male,57,Chandigarh,Home,Desk Lamp,2,699.0,15,Debit Card,Desktop,Returned,1398.0,1188.3
+723,2025-05-13 21:06:00,1224,Other,28,Hyderabad,Fashion,Jeans,1,1299.0,20,Cash on Delivery,Tablet,Delivered,1299.0,1039.2
+724,2025-08-24 22:25:00,1102,Other,52,Delhi,Electronics,Wireless Earbuds,1,1499.0,15,Net Banking,Tablet,Delivered,1499.0,1274.1499999999999
+725,2025-06-04 02:08:00,1159,Other,52,Pune,Books,Business Strategy,2,599.0,15,Credit Card,Mobile,Delivered,1198.0,1018.3
+726,2025-09-04 20:09:00,1209,Other,23,Rohtak,Electronics,Smart Watch,3,2499.0,5,Credit Card,Desktop,Delivered,7497.0,7122.15
+727,2025-03-17 15:27:00,1220,Other,32,Hyderabad,Books,Data Analytics,1,699.0,15,UPI,Mobile,Delivered,699.0,594.15
+728,2025-10-27 07:12:00,1040,Female,55,Bengaluru,Beauty,Sunscreen,1,499.0,15,Debit Card,Tablet,Delivered,499.0,424.15
+729,2025-08-01 15:47:00,1101,Male,21,Lucknow,Electronics,Bluetooth Speaker,1,1799.0,15,Net Banking,Tablet,Delivered,1799.0,1529.1499999999999
+730,2025-10-30 23:39:00,1075,Male,58,Delhi,Electronics,Power Bank,1,999.0,20,Cash on Delivery,Mobile,Delivered,999.0,799.2
+731,2025-02-02 08:57:00,1136,Female,26,Mumbai,Electronics,Power Bank,2,999.0,20,Cash on Delivery,Desktop,Delivered,1998.0,1598.4
+732,2025-03-24 09:46:00,1160,Male,25,Mumbai,Home,Storage Box,2,499.0,0,Credit Card,Desktop,Delivered,998.0,998.0
+733,2025-11-05 22:42:00,1060,Male,41,Mumbai,Books,Data Analytics,2,699.0,10,Cash on Delivery,Mobile,Delivered,1398.0,1258.2
+734,2025-08-30 05:39:00,1186,Female,23,Jaipur,Beauty,Sunscreen,3,499.0,10,Credit Card,Desktop,Delivered,1497.0,1347.3
+735,2025-11-07 15:06:00,1023,Male,32,Gurugram,Beauty,Moisturizer,1,399.0,5,Cash on Delivery,Desktop,Delivered,399.0,379.04999999999995
+736,2025-05-14 11:43:00,1054,Male,50,Gurugram,Books,Python Basics,4,499.0,10,Credit Card,Mobile,Delivered,1996.0,1796.4
+737,2025-08-09 03:39:00,1229,Male,47,Rohtak,Books,Python Basics,2,499.0,10,Credit Card,Mobile,Delivered,998.0,898.2
+738,2025-10-13 08:57:00,1125,Other,51,Delhi,Home,Desk Lamp,2,699.0,0,Credit Card,Tablet,Delivered,1398.0,1398.0
+739,2025-08-23 03:06:00,1155,Male,19,Jaipur,Electronics,Wireless Earbuds,3,1499.0,15,Net Banking,Tablet,Delivered,4497.0,3822.45
+740,2025-11-19 03:55:00,1243,Male,56,Lucknow,Electronics,Wireless Earbuds,1,1499.0,5,Credit Card,Desktop,Delivered,1499.0,1424.05
+741,2025-03-20 20:23:00,1075,Male,58,Delhi,Beauty,Sunscreen,2,499.0,0,Debit Card,Mobile,Delivered,998.0,998.0
+742,2025-05-06 15:21:00,1052,Male,47,Delhi,Beauty,Sunscreen,2,499.0,0,Debit Card,Tablet,Delivered,998.0,998.0
+743,2025-03-19 16:26:00,1069,Female,60,Pune,Home,Storage Box,1,499.0,5,Credit Card,Mobile,Delivered,499.0,474.04999999999995
+744,2025-07-05 00:28:00,1106,Male,50,Gurugram,Beauty,Sunscreen,4,499.0,20,Credit Card,Mobile,Delivered,1996.0,1596.8000000000002
+745,2025-03-26 13:03:00,1133,Other,49,Mumbai,Electronics,Wireless Earbuds,1,1499.0,15,Cash on Delivery,Mobile,Delivered,1499.0,1274.1499999999999
+746,2025-06-01 13:25:00,1165,Male,42,Lucknow,Fashion,T-Shirt,4,599.0,20,Net Banking,Desktop,Delivered,2396.0,1916.8000000000002
+747,2025-11-09 04:44:00,1081,Female,33,Hyderabad,Home,Mixer Grinder,2,2899.0,20,Cash on Delivery,Desktop,Delivered,5798.0,4638.400000000001
+748,2025-04-12 09:05:00,1228,Male,59,Bengaluru,Books,Fiction Novel,2,299.0,15,UPI,Tablet,Delivered,598.0,508.3
+749,2025-10-10 09:33:00,1186,Female,23,Jaipur,Fashion,Sneakers,1,2199.0,20,Debit Card,Tablet,Delivered,2199.0,1759.2
+750,2025-08-05 16:07:00,1008,Male,53,Jaipur,Books,Business Strategy,1,599.0,10,UPI,Desktop,Delivered,599.0,539.1
+751,2025-08-18 09:36:00,1130,Female,36,Lucknow,Home,Mixer Grinder,1,2899.0,0,UPI,Desktop,Delivered,2899.0,2899.0
+752,2025-10-21 21:08:00,1061,Male,21,Jaipur,Books,Data Analytics,1,699.0,10,Cash on Delivery,Tablet,Delivered,699.0,629.1
+753,2025-08-21 03:09:00,1027,Other,35,Gurugram,Home,Bedsheet,2,899.0,10,Cash on Delivery,Desktop,Delivered,1798.0,1618.2
+754,2025-02-09 11:43:00,1016,Female,56,Mumbai,Beauty,Moisturizer,1,399.0,15,Net Banking,Desktop,Delivered,399.0,339.15
+755,2025-08-14 22:59:00,1133,Other,49,Mumbai,Beauty,Shampoo,2,299.0,15,Cash on Delivery,Tablet,Returned,598.0,508.3
+756,2025-08-23 04:45:00,1211,Other,27,Jaipur,Fashion,Jeans,1,1299.0,15,Net Banking,Tablet,Delivered,1299.0,1104.1499999999999
+757,2025-10-14 11:58:00,1055,Other,37,Chandigarh,Beauty,Sunscreen,1,499.0,5,UPI,Tablet,Delivered,499.0,474.04999999999995
+758,2025-09-25 04:07:00,1029,Other,33,Rohtak,Electronics,Bluetooth Speaker,2,1799.0,0,Debit Card,Desktop,Returned,3598.0,3598.0
+759,2025-03-14 18:26:00,1078,Male,35,Hyderabad,Home,Storage Box,1,499.0,5,UPI,Desktop,Delivered,499.0,474.04999999999995
+760,2025-06-28 02:55:00,1056,Other,30,Rohtak,Fashion,Jacket,1,1899.0,20,UPI,Desktop,Delivered,1899.0,1519.2
+761,2025-09-01 23:53:00,1080,Other,54,Lucknow,Books,Fiction Novel,3,299.0,15,Net Banking,Mobile,Delivered,897.0,762.4499999999999
+762,2025-06-16 02:51:00,1130,Female,36,Lucknow,Beauty,Sunscreen,2,499.0,5,Net Banking,Tablet,Delivered,998.0,948.0999999999999
+763,2025-08-15 23:17:00,1100,Male,30,Mumbai,Fashion,Jacket,1,1899.0,0,UPI,Mobile,Delivered,1899.0,1899.0
+764,2025-04-09 19:34:00,1147,Other,27,Jaipur,Home,Mixer Grinder,2,2899.0,0,Net Banking,Mobile,Cancelled,5798.0,5798.0
+765,2025-03-03 21:59:00,1134,Male,23,Bengaluru,Fashion,Jacket,1,1899.0,0,Net Banking,Mobile,Returned,1899.0,1899.0
+766,2025-08-16 02:51:00,1071,Male,33,Jaipur,Fashion,Jeans,2,1299.0,20,Net Banking,Tablet,Delivered,2598.0,2078.4
+767,2025-06-24 13:11:00,1151,Female,28,Gurugram,Electronics,Power Bank,3,999.0,0,Cash on Delivery,Mobile,Delivered,2997.0,2997.0
+768,2025-10-05 05:18:00,1082,Female,30,Gurugram,Beauty,Shampoo,1,299.0,0,Credit Card,Mobile,Delivered,299.0,299.0
+769,2025-01-31 19:20:00,1023,Male,32,Gurugram,Fashion,Sneakers,4,2199.0,5,Credit Card,Mobile,Delivered,8796.0,8356.199999999999
+770,2025-06-15 08:24:00,1077,Female,22,Chandigarh,Beauty,Face Wash,1,249.0,15,UPI,Mobile,Delivered,249.0,211.65
+771,2025-07-17 03:17:00,1193,Female,33,Rohtak,Books,Data Analytics,1,699.0,20,UPI,Desktop,Delivered,699.0,559.2
+772,2025-01-10 08:35:00,1105,Other,51,Rohtak,Electronics,Power Bank,1,999.0,5,Net Banking,Tablet,Delivered,999.0,949.05
+773,2025-08-17 02:54:00,1196,Other,51,Hyderabad,Books,Data Analytics,1,699.0,15,Net Banking,Mobile,Delivered,699.0,594.15
+774,2025-08-05 17:28:00,1037,Female,59,Hyderabad,Home,Bedsheet,2,899.0,20,UPI,Mobile,Delivered,1798.0,1438.4
+775,2025-01-01 01:59:00,1247,Other,42,Bengaluru,Books,Business Strategy,2,599.0,5,Cash on Delivery,Desktop,Delivered,1198.0,1138.1
+776,2025-10-27 16:18:00,1215,Female,42,Lucknow,Beauty,Shampoo,3,299.0,5,UPI,Mobile,Delivered,897.0,852.15
+777,2025-03-13 23:35:00,1145,Male,33,Gurugram,Electronics,Bluetooth Speaker,1,1799.0,0,Debit Card,Desktop,Delivered,1799.0,1799.0
+778,2025-05-20 07:42:00,1130,Female,36,Lucknow,Home,Desk Lamp,2,699.0,15,Debit Card,Desktop,Delivered,1398.0,1188.3
+779,2025-11-27 00:38:00,1246,Male,37,Lucknow,Books,Business Strategy,1,599.0,5,Cash on Delivery,Mobile,Cancelled,599.0,569.05
+780,2025-07-21 17:05:00,1173,Female,60,Bengaluru,Fashion,Jacket,2,1899.0,15,UPI,Tablet,Delivered,3798.0,3228.2999999999997
+781,2025-11-04 11:24:00,1214,Female,21,Jaipur,Beauty,Face Wash,1,249.0,15,Credit Card,Tablet,Returned,249.0,211.65
+782,2025-01-05 07:47:00,1032,Other,38,Delhi,Beauty,Shampoo,3,299.0,15,UPI,Desktop,Delivered,897.0,762.4499999999999
+783,2025-11-17 09:51:00,1182,Female,46,Hyderabad,Home,Bedsheet,1,899.0,20,Credit Card,Mobile,Returned,899.0,719.2
+784,2025-04-18 00:12:00,1248,Other,30,Gurugram,Home,Mixer Grinder,1,2899.0,20,Cash on Delivery,Mobile,Delivered,2899.0,2319.2000000000003
+785,2025-10-17 21:43:00,1146,Female,53,Bengaluru,Books,Fiction Novel,1,299.0,5,Net Banking,Tablet,Delivered,299.0,284.05
+786,2025-04-27 16:46:00,1151,Female,28,Gurugram,Fashion,T-Shirt,1,599.0,20,Debit Card,Mobile,Delivered,599.0,479.20000000000005
+787,2025-01-02 13:41:00,1006,Male,23,Jaipur,Books,Business Strategy,2,599.0,15,UPI,Desktop,Delivered,1198.0,1018.3
+788,2025-09-11 11:33:00,1105,Other,51,Rohtak,Home,Mixer Grinder,2,2899.0,15,UPI,Tablet,Delivered,5798.0,4928.3
+789,2025-04-10 10:05:00,1072,Male,39,Delhi,Beauty,Sunscreen,1,499.0,15,Net Banking,Mobile,Returned,499.0,424.15
+790,2025-03-26 10:19:00,1058,Other,18,Lucknow,Beauty,Face Wash,3,249.0,5,UPI,Tablet,Delivered,747.0,709.65
+791,2025-11-17 10:53:00,1008,Male,53,Jaipur,Beauty,Sunscreen,2,499.0,20,Debit Card,Mobile,Delivered,998.0,798.4000000000001
+792,2025-05-02 02:49:00,1062,Other,23,Gurugram,Home,Mixer Grinder,2,2899.0,20,Net Banking,Tablet,Delivered,5798.0,4638.400000000001
+793,2025-01-18 12:20:00,1025,Other,41,Rohtak,Beauty,Face Wash,1,249.0,0,UPI,Mobile,Delivered,249.0,249.0
+794,2025-02-03 03:43:00,1206,Female,46,Gurugram,Beauty,Face Wash,1,249.0,15,UPI,Tablet,Delivered,249.0,211.65
+795,2025-04-30 19:50:00,1218,Female,37,Bengaluru,Beauty,Sunscreen,1,499.0,15,Net Banking,Mobile,Delivered,499.0,424.15
+796,2025-08-21 16:21:00,1119,Other,24,Gurugram,Beauty,Face Wash,1,249.0,0,Net Banking,Mobile,Delivered,249.0,249.0
+797,2025-10-21 04:40:00,1004,Other,52,Gurugram,Books,Python Basics,2,499.0,5,Net Banking,Desktop,Delivered,998.0,948.0999999999999
+798,2025-01-23 01:08:00,1124,Other,37,Lucknow,Books,Fiction Novel,1,299.0,5,Debit Card,Tablet,Delivered,299.0,284.05
+799,2025-03-16 04:30:00,1246,Male,37,Lucknow,Home,Desk Lamp,2,699.0,20,Debit Card,Tablet,Delivered,1398.0,1118.4
+800,2025-10-14 01:27:00,1095,Female,31,Bengaluru,Electronics,Smart Watch,1,2499.0,20,Debit Card,Mobile,Returned,2499.0,1999.2
+801,2025-08-28 19:44:00,1164,Female,56,Chandigarh,Fashion,T-Shirt,1,599.0,15,Debit Card,Tablet,Delivered,599.0,509.15
+802,2025-02-23 14:56:00,1086,Male,43,Pune,Books,Business Strategy,1,599.0,5,UPI,Desktop,Delivered,599.0,569.05
+803,2025-05-03 15:47:00,1001,Other,25,Delhi,Fashion,Jeans,1,1299.0,5,Debit Card,Tablet,Delivered,1299.0,1234.05
+804,2025-07-03 00:35:00,1103,Other,38,Delhi,Fashion,T-Shirt,1,599.0,0,UPI,Mobile,Delivered,599.0,599.0
+805,2025-04-12 06:18:00,1050,Female,59,Pune,Books,Business Strategy,1,599.0,0,Credit Card,Mobile,Delivered,599.0,599.0
+806,2025-04-02 06:01:00,1185,Female,50,Lucknow,Fashion,Sneakers,3,2199.0,5,Credit Card,Desktop,Cancelled,6597.0,6267.15
+807,2025-06-23 06:19:00,1006,Male,23,Jaipur,Fashion,Jacket,2,1899.0,0,Cash on Delivery,Mobile,Delivered,3798.0,3798.0
+808,2025-03-02 04:56:00,1096,Male,28,Bengaluru,Fashion,Jacket,3,1899.0,0,Credit Card,Mobile,Delivered,5697.0,5697.0
+809,2025-01-24 19:37:00,1097,Male,42,Mumbai,Home,Desk Lamp,2,699.0,5,Credit Card,Tablet,Delivered,1398.0,1328.1
+810,2025-03-06 16:37:00,1039,Male,53,Chandigarh,Home,Bedsheet,1,899.0,10,Cash on Delivery,Mobile,Delivered,899.0,809.1
+811,2025-11-27 16:23:00,1201,Female,57,Chandigarh,Beauty,Face Wash,1,249.0,15,Cash on Delivery,Tablet,Delivered,249.0,211.65
+812,2025-08-31 08:37:00,1083,Male,60,Bengaluru,Home,Storage Box,2,499.0,15,Cash on Delivery,Tablet,Cancelled,998.0,848.3
+813,2025-08-20 07:25:00,1150,Female,60,Jaipur,Electronics,Smart Watch,1,2499.0,5,Credit Card,Desktop,Delivered,2499.0,2374.0499999999997
+814,2025-05-11 17:05:00,1097,Male,42,Mumbai,Books,Data Analytics,3,699.0,10,Credit Card,Mobile,Delivered,2097.0,1887.3
+815,2025-09-20 19:21:00,1133,Other,49,Mumbai,Home,Bedsheet,2,899.0,15,Cash on Delivery,Desktop,Delivered,1798.0,1528.3
+816,2025-01-13 05:28:00,1105,Other,51,Rohtak,Home,Storage Box,1,499.0,15,Credit Card,Desktop,Delivered,499.0,424.15
+817,2025-10-07 20:05:00,1092,Male,21,Chandigarh,Electronics,Bluetooth Speaker,3,1799.0,20,Debit Card,Mobile,Delivered,5397.0,4317.6
+818,2025-04-11 21:21:00,1019,Other,36,Lucknow,Home,Mixer Grinder,1,2899.0,10,Debit Card,Desktop,Delivered,2899.0,2609.1
+819,2025-10-06 08:00:00,1197,Male,53,Jaipur,Home,Bedsheet,2,899.0,5,Debit Card,Desktop,Delivered,1798.0,1708.1
+820,2025-08-30 20:32:00,1201,Female,57,Chandigarh,Beauty,Sunscreen,2,499.0,0,Credit Card,Desktop,Delivered,998.0,998.0
+821,2025-10-10 14:46:00,1186,Female,23,Jaipur,Fashion,Jacket,1,1899.0,20,Cash on Delivery,Desktop,Delivered,1899.0,1519.2
+822,2025-04-18 14:28:00,1081,Female,33,Hyderabad,Fashion,Jacket,2,1899.0,15,Net Banking,Mobile,Delivered,3798.0,3228.2999999999997
+823,2025-09-13 21:53:00,1148,Male,29,Bengaluru,Fashion,Sneakers,3,2199.0,0,Debit Card,Desktop,Delivered,6597.0,6597.0
+824,2025-10-18 01:59:00,1109,Male,54,Jaipur,Beauty,Shampoo,1,299.0,0,Credit Card,Mobile,Returned,299.0,299.0
+825,2025-07-20 02:34:00,1085,Female,21,Gurugram,Books,Fiction Novel,4,299.0,5,Cash on Delivery,Mobile,Delivered,1196.0,1136.2
+826,2025-02-17 05:06:00,1085,Female,21,Gurugram,Books,Fiction Novel,2,299.0,10,Net Banking,Mobile,Delivered,598.0,538.2
+827,2025-02-05 12:18:00,1177,Other,29,Lucknow,Books,Fiction Novel,1,299.0,5,Credit Card,Mobile,Delivered,299.0,284.05
+828,2025-01-06 05:20:00,1135,Female,20,Delhi,Electronics,Power Bank,1,999.0,20,Cash on Delivery,Desktop,Delivered,999.0,799.2
+829,2025-07-19 06:08:00,1029,Other,33,Rohtak,Fashion,Jacket,1,1899.0,0,Credit Card,Desktop,Delivered,1899.0,1899.0
+830,2025-10-28 06:32:00,1182,Female,46,Hyderabad,Beauty,Moisturizer,2,399.0,10,Cash on Delivery,Desktop,Delivered,798.0,718.2
+831,2025-05-07 16:21:00,1037,Female,59,Hyderabad,Beauty,Face Wash,2,249.0,20,Net Banking,Desktop,Delivered,498.0,398.40000000000003
+832,2025-06-27 22:53:00,1148,Male,29,Bengaluru,Electronics,Wireless Earbuds,1,1499.0,15,Debit Card,Desktop,Delivered,1499.0,1274.1499999999999
+833,2025-08-10 14:24:00,1208,Female,39,Pune,Fashion,Jacket,1,1899.0,20,Credit Card,Tablet,Delivered,1899.0,1519.2
+834,2025-05-21 20:34:00,1101,Male,21,Lucknow,Electronics,Smart Watch,3,2499.0,5,Debit Card,Tablet,Cancelled,7497.0,7122.15
+835,2025-03-04 11:04:00,1179,Other,18,Mumbai,Fashion,Jacket,1,1899.0,20,UPI,Tablet,Delivered,1899.0,1519.2
+836,2025-09-17 01:29:00,1084,Female,45,Bengaluru,Beauty,Sunscreen,1,499.0,5,UPI,Mobile,Delivered,499.0,474.04999999999995
+837,2025-04-10 12:02:00,1173,Female,60,Bengaluru,Beauty,Sunscreen,1,499.0,15,UPI,Desktop,Delivered,499.0,424.15
+838,2025-09-06 14:04:00,1235,Other,52,Delhi,Fashion,Sneakers,2,2199.0,15,UPI,Tablet,Delivered,4398.0,3738.2999999999997
+839,2025-03-24 05:53:00,1183,Other,31,Chandigarh,Beauty,Moisturizer,1,399.0,10,UPI,Tablet,Delivered,399.0,359.1
+840,2025-05-20 04:28:00,1076,Male,22,Delhi,Electronics,Power Bank,1,999.0,0,Debit Card,Mobile,Delivered,999.0,999.0
+841,2025-11-22 16:41:00,1009,Other,59,Chandigarh,Books,Data Analytics,1,699.0,0,UPI,Desktop,Delivered,699.0,699.0
+842,2025-04-14 07:23:00,1114,Male,60,Pune,Electronics,Wireless Earbuds,1,1499.0,15,Credit Card,Mobile,Delivered,1499.0,1274.1499999999999
+843,2025-02-02 07:56:00,1108,Male,33,Bengaluru,Electronics,Wireless Earbuds,1,1499.0,5,UPI,Tablet,Delivered,1499.0,1424.05
+844,2025-06-15 17:40:00,1043,Female,23,Delhi,Electronics,Power Bank,1,999.0,10,Credit Card,Tablet,Delivered,999.0,899.1
+845,2025-02-24 11:20:00,1139,Male,25,Gurugram,Beauty,Sunscreen,1,499.0,5,Credit Card,Mobile,Delivered,499.0,474.04999999999995
+846,2025-02-03 21:52:00,1081,Female,33,Hyderabad,Electronics,Power Bank,1,999.0,5,Debit Card,Tablet,Delivered,999.0,949.05
+847,2025-09-13 03:45:00,1012,Male,45,Pune,Electronics,Smart Watch,1,2499.0,20,Net Banking,Tablet,Delivered,2499.0,1999.2
+848,2025-03-10 10:11:00,1246,Male,37,Lucknow,Electronics,Bluetooth Speaker,4,1799.0,15,Debit Card,Tablet,Delivered,7196.0,6116.599999999999
+849,2025-09-15 18:45:00,1086,Male,43,Pune,Electronics,Power Bank,1,999.0,5,UPI,Mobile,Delivered,999.0,949.05
+850,2025-05-05 19:05:00,1195,Female,32,Rohtak,Electronics,Bluetooth Speaker,1,1799.0,15,UPI,Mobile,Delivered,1799.0,1529.1499999999999
+851,2025-05-02 23:38:00,1076,Male,22,Delhi,Fashion,Jeans,1,1299.0,0,Cash on Delivery,Tablet,Delivered,1299.0,1299.0
+852,2025-09-24 13:41:00,1035,Male,54,Pune,Home,Desk Lamp,2,699.0,0,Debit Card,Mobile,Delivered,1398.0,1398.0
+853,2025-01-28 21:15:00,1188,Male,27,Delhi,Home,Desk Lamp,1,699.0,20,Credit Card,Tablet,Delivered,699.0,559.2
+854,2025-02-03 15:04:00,1134,Male,23,Bengaluru,Home,Bedsheet,1,899.0,0,Credit Card,Mobile,Delivered,899.0,899.0
+855,2025-10-09 06:15:00,1037,Female,59,Hyderabad,Fashion,Jeans,1,1299.0,20,Net Banking,Mobile,Delivered,1299.0,1039.2
+856,2025-08-06 05:38:00,1120,Other,31,Chandigarh,Home,Bedsheet,2,899.0,5,Credit Card,Desktop,Delivered,1798.0,1708.1
+857,2025-02-10 11:25:00,1115,Male,34,Bengaluru,Fashion,Sneakers,3,2199.0,15,Cash on Delivery,Mobile,Delivered,6597.0,5607.45
+858,2025-01-11 12:27:00,1109,Male,54,Jaipur,Books,Fiction Novel,2,299.0,15,UPI,Desktop,Delivered,598.0,508.3
+859,2025-06-06 14:18:00,1040,Female,55,Bengaluru,Books,Data Analytics,1,699.0,15,Cash on Delivery,Tablet,Delivered,699.0,594.15
+860,2025-03-21 06:00:00,1019,Other,36,Lucknow,Home,Bedsheet,2,899.0,5,UPI,Tablet,Delivered,1798.0,1708.1
+861,2025-07-11 12:31:00,1096,Male,28,Bengaluru,Beauty,Sunscreen,3,499.0,15,Debit Card,Tablet,Returned,1497.0,1272.45
+862,2025-07-17 18:10:00,1019,Other,36,Lucknow,Beauty,Face Wash,4,249.0,0,Credit Card,Desktop,Cancelled,996.0,996.0
+863,2025-01-30 20:24:00,1198,Male,47,Rohtak,Home,Storage Box,2,499.0,10,Cash on Delivery,Tablet,Delivered,998.0,898.2
+864,2025-11-27 04:16:00,1123,Female,28,Hyderabad,Electronics,Bluetooth Speaker,2,1799.0,0,Net Banking,Desktop,Cancelled,3598.0,3598.0
+865,2025-01-07 03:49:00,1038,Male,34,Rohtak,Home,Bedsheet,2,899.0,5,UPI,Tablet,Delivered,1798.0,1708.1
+866,2025-08-05 05:53:00,1099,Other,53,Hyderabad,Beauty,Face Wash,1,249.0,5,Cash on Delivery,Desktop,Delivered,249.0,236.54999999999998
+867,2025-02-15 03:40:00,1129,Other,53,Rohtak,Books,Fiction Novel,2,299.0,15,Net Banking,Desktop,Delivered,598.0,508.3
+868,2025-03-28 15:00:00,1069,Female,60,Pune,Fashion,Jacket,2,1899.0,0,UPI,Mobile,Delivered,3798.0,3798.0
+869,2025-03-29 05:23:00,1107,Male,22,Lucknow,Books,Fiction Novel,2,299.0,15,Credit Card,Tablet,Delivered,598.0,508.3
+870,2025-04-06 06:03:00,1125,Other,51,Delhi,Fashion,T-Shirt,1,599.0,5,Credit Card,Mobile,Delivered,599.0,569.05
+871,2025-02-25 20:10:00,1231,Female,31,Hyderabad,Beauty,Sunscreen,2,499.0,20,UPI,Desktop,Delivered,998.0,798.4000000000001
+872,2025-05-01 15:31:00,1032,Other,38,Delhi,Home,Mixer Grinder,1,2899.0,20,UPI,Mobile,Delivered,2899.0,2319.2000000000003
+873,2025-01-04 12:38:00,1193,Female,33,Rohtak,Electronics,Wireless Earbuds,1,1499.0,20,Net Banking,Desktop,Cancelled,1499.0,1199.2
+874,2025-06-11 07:23:00,1122,Male,33,Pune,Home,Storage Box,1,499.0,10,Cash on Delivery,Desktop,Delivered,499.0,449.1
+875,2025-08-22 22:25:00,1250,Male,37,Lucknow,Home,Desk Lamp,2,699.0,0,Credit Card,Mobile,Delivered,1398.0,1398.0
+876,2025-07-08 14:39:00,1223,Female,60,Bengaluru,Books,Business Strategy,4,599.0,5,Cash on Delivery,Tablet,Delivered,2396.0,2276.2
+877,2025-01-24 23:20:00,1049,Other,25,Chandigarh,Electronics,Bluetooth Speaker,1,1799.0,10,Cash on Delivery,Mobile,Delivered,1799.0,1619.1000000000001
+878,2025-02-21 23:24:00,1103,Other,38,Delhi,Books,Python Basics,1,499.0,15,Debit Card,Tablet,Delivered,499.0,424.15
+879,2025-06-04 21:35:00,1037,Female,59,Hyderabad,Books,Python Basics,1,499.0,0,Cash on Delivery,Mobile,Delivered,499.0,499.0
+880,2025-05-05 06:10:00,1245,Female,24,Lucknow,Electronics,Power Bank,2,999.0,5,UPI,Mobile,Delivered,1998.0,1898.1
+881,2025-07-16 08:14:00,1184,Female,28,Gurugram,Electronics,Smart Watch,3,2499.0,10,Debit Card,Tablet,Delivered,7497.0,6747.3
+882,2025-02-16 22:21:00,1230,Male,34,Bengaluru,Electronics,Smart Watch,3,2499.0,15,Credit Card,Tablet,Delivered,7497.0,6372.45
+883,2025-11-25 17:54:00,1154,Female,37,Jaipur,Electronics,Bluetooth Speaker,1,1799.0,15,Cash on Delivery,Mobile,Delivered,1799.0,1529.1499999999999
+884,2025-10-31 06:47:00,1030,Female,42,Mumbai,Home,Mixer Grinder,1,2899.0,10,UPI,Tablet,Delivered,2899.0,2609.1
+885,2025-06-09 01:37:00,1219,Female,52,Chandigarh,Home,Storage Box,2,499.0,0,Net Banking,Mobile,Delivered,998.0,998.0
+886,2025-09-24 21:38:00,1109,Male,54,Jaipur,Home,Desk Lamp,2,699.0,5,Net Banking,Mobile,Delivered,1398.0,1328.1
+887,2025-04-23 15:43:00,1003,Male,26,Gurugram,Books,Fiction Novel,1,299.0,10,Cash on Delivery,Mobile,Delivered,299.0,269.1
+888,2025-05-21 22:36:00,1038,Male,34,Rohtak,Electronics,Bluetooth Speaker,1,1799.0,0,Cash on Delivery,Tablet,Delivered,1799.0,1799.0
+889,2025-03-20 22:13:00,1127,Other,24,Rohtak,Home,Storage Box,1,499.0,10,Credit Card,Tablet,Delivered,499.0,449.1
+890,2025-03-23 00:35:00,1237,Other,20,Delhi,Fashion,Jacket,2,1899.0,10,Cash on Delivery,Desktop,Delivered,3798.0,3418.2000000000003
+891,2025-05-25 09:44:00,1122,Male,33,Pune,Home,Storage Box,1,499.0,20,Credit Card,Tablet,Delivered,499.0,399.20000000000005
+892,2025-01-28 22:19:00,1101,Male,21,Lucknow,Electronics,Smart Watch,1,2499.0,20,Cash on Delivery,Tablet,Delivered,2499.0,1999.2
+893,2025-04-18 06:51:00,1036,Male,59,Hyderabad,Beauty,Sunscreen,1,499.0,5,Credit Card,Tablet,Delivered,499.0,474.04999999999995
+894,2025-07-12 13:43:00,1093,Male,23,Jaipur,Books,Python Basics,2,499.0,5,Credit Card,Mobile,Delivered,998.0,948.0999999999999
+895,2025-09-21 20:21:00,1250,Male,37,Lucknow,Beauty,Moisturizer,3,399.0,0,Net Banking,Desktop,Returned,1197.0,1197.0
+896,2025-07-23 15:19:00,1161,Male,55,Mumbai,Beauty,Moisturizer,1,399.0,5,Net Banking,Mobile,Delivered,399.0,379.04999999999995
+897,2025-05-21 20:41:00,1097,Male,42,Mumbai,Electronics,Power Bank,3,999.0,15,Cash on Delivery,Desktop,Delivered,2997.0,2547.45
+898,2025-04-26 00:37:00,1030,Female,42,Mumbai,Electronics,Wireless Earbuds,1,1499.0,20,Net Banking,Tablet,Delivered,1499.0,1199.2
+899,2025-06-02 18:08:00,1178,Other,37,Bengaluru,Electronics,Smart Watch,1,2499.0,15,UPI,Desktop,Delivered,2499.0,2124.15
+900,2025-07-21 17:52:00,1233,Female,44,Mumbai,Books,Data Analytics,1,699.0,0,Net Banking,Tablet,Delivered,699.0,699.0
+901,2025-03-02 05:55:00,1133,Other,49,Mumbai,Books,Python Basics,2,499.0,5,Net Banking,Tablet,Delivered,998.0,948.0999999999999
+902,2025-10-22 06:41:00,1143,Male,20,Mumbai,Beauty,Shampoo,1,299.0,5,Credit Card,Mobile,Delivered,299.0,284.05
+903,2025-06-02 11:34:00,1218,Female,37,Bengaluru,Electronics,Wireless Earbuds,4,1499.0,20,Credit Card,Desktop,Returned,5996.0,4796.8
+904,2025-05-31 21:34:00,1169,Female,45,Gurugram,Electronics,Smart Watch,1,2499.0,20,Cash on Delivery,Mobile,Delivered,2499.0,1999.2
+905,2025-04-18 22:06:00,1178,Other,37,Bengaluru,Home,Desk Lamp,2,699.0,20,UPI,Mobile,Delivered,1398.0,1118.4
+906,2025-10-10 06:37:00,1037,Female,59,Hyderabad,Home,Bedsheet,4,899.0,20,Debit Card,Desktop,Delivered,3596.0,2876.8
+907,2025-07-15 20:57:00,1160,Male,25,Mumbai,Beauty,Face Wash,1,249.0,10,Credit Card,Desktop,Delivered,249.0,224.1
+908,2025-10-02 06:04:00,1242,Other,34,Pune,Home,Storage Box,3,499.0,5,Debit Card,Tablet,Delivered,1497.0,1422.1499999999999
+909,2025-06-11 13:24:00,1050,Female,59,Pune,Home,Bedsheet,1,899.0,5,UPI,Tablet,Delivered,899.0,854.05
+910,2025-02-03 10:40:00,1070,Female,51,Hyderabad,Electronics,Wireless Earbuds,2,1499.0,15,UPI,Desktop,Cancelled,2998.0,2548.2999999999997
+911,2025-05-21 00:06:00,1200,Other,56,Pune,Home,Bedsheet,3,899.0,5,Cash on Delivery,Mobile,Delivered,2697.0,2562.15
+912,2025-10-29 15:06:00,1027,Other,35,Gurugram,Electronics,Smart Watch,1,2499.0,10,Net Banking,Desktop,Delivered,2499.0,2249.1
+913,2025-03-29 10:48:00,1222,Female,19,Bengaluru,Home,Desk Lamp,2,699.0,0,Cash on Delivery,Mobile,Delivered,1398.0,1398.0
+914,2025-05-13 00:43:00,1190,Other,22,Hyderabad,Books,Fiction Novel,1,299.0,5,Net Banking,Tablet,Delivered,299.0,284.05
+915,2025-01-28 23:40:00,1033,Male,20,Pune,Fashion,Jacket,2,1899.0,10,Debit Card,Tablet,Delivered,3798.0,3418.2000000000003
+916,2025-08-13 11:51:00,1174,Female,43,Mumbai,Books,Fiction Novel,2,299.0,5,Cash on Delivery,Tablet,Delivered,598.0,568.1
+917,2025-06-06 13:49:00,1244,Other,25,Rohtak,Beauty,Moisturizer,1,399.0,0,Debit Card,Mobile,Delivered,399.0,399.0
+918,2025-02-13 23:18:00,1020,Female,54,Jaipur,Fashion,T-Shirt,1,599.0,0,Net Banking,Desktop,Delivered,599.0,599.0
+919,2025-09-30 22:07:00,1003,Male,26,Gurugram,Beauty,Moisturizer,1,399.0,20,Cash on Delivery,Mobile,Delivered,399.0,319.20000000000005
+920,2025-05-06 23:42:00,1234,Male,48,Delhi,Electronics,Power Bank,2,999.0,10,Net Banking,Tablet,Delivered,1998.0,1798.2
+921,2025-04-26 05:04:00,1156,Female,39,Mumbai,Beauty,Moisturizer,2,399.0,20,Debit Card,Mobile,Delivered,798.0,638.4000000000001
+922,2025-07-11 03:21:00,1244,Other,25,Rohtak,Electronics,Power Bank,1,999.0,5,Credit Card,Tablet,Delivered,999.0,949.05
+923,2025-05-16 06:00:00,1220,Other,32,Hyderabad,Electronics,Bluetooth Speaker,1,1799.0,10,Net Banking,Desktop,Delivered,1799.0,1619.1000000000001
+924,2025-09-07 01:22:00,1079,Male,52,Rohtak,Books,Python Basics,3,499.0,20,UPI,Tablet,Delivered,1497.0,1197.6000000000001
+925,2025-07-25 11:00:00,1077,Female,22,Chandigarh,Home,Mixer Grinder,1,2899.0,5,UPI,Desktop,Delivered,2899.0,2754.0499999999997
+926,2025-01-04 04:49:00,1022,Other,32,Mumbai,Books,Data Analytics,1,699.0,15,Debit Card,Mobile,Delivered,699.0,594.15
+927,2025-10-02 08:06:00,1096,Male,28,Bengaluru,Home,Desk Lamp,1,699.0,5,Cash on Delivery,Tablet,Delivered,699.0,664.05
+928,2025-07-03 22:12:00,1042,Male,26,Chandigarh,Fashion,Sneakers,2,2199.0,0,UPI,Mobile,Delivered,4398.0,4398.0
+929,2025-03-24 21:12:00,1035,Male,54,Pune,Beauty,Sunscreen,2,499.0,0,Cash on Delivery,Tablet,Returned,998.0,998.0
+930,2025-06-16 12:32:00,1031,Other,53,Jaipur,Beauty,Sunscreen,2,499.0,5,Cash on Delivery,Mobile,Delivered,998.0,948.0999999999999
+931,2025-01-07 21:15:00,1028,Other,58,Rohtak,Electronics,Smart Watch,1,2499.0,20,UPI,Tablet,Delivered,2499.0,1999.2
+932,2025-05-25 15:05:00,1110,Other,56,Delhi,Books,Python Basics,1,499.0,10,Cash on Delivery,Mobile,Delivered,499.0,449.1
+933,2025-05-15 22:15:00,1187,Other,37,Jaipur,Books,Data Analytics,1,699.0,0,Cash on Delivery,Mobile,Delivered,699.0,699.0
+934,2025-11-19 20:09:00,1201,Female,57,Chandigarh,Electronics,Smart Watch,1,2499.0,20,Credit Card,Mobile,Delivered,2499.0,1999.2
+935,2025-01-10 19:12:00,1010,Female,32,Hyderabad,Home,Bedsheet,3,899.0,15,UPI,Mobile,Delivered,2697.0,2292.45
+936,2025-09-03 01:32:00,1135,Female,20,Delhi,Home,Bedsheet,1,899.0,15,Cash on Delivery,Tablet,Delivered,899.0,764.15
+937,2025-08-03 07:20:00,1029,Other,33,Rohtak,Home,Desk Lamp,1,699.0,10,UPI,Mobile,Delivered,699.0,629.1
+938,2025-11-07 03:27:00,1014,Female,24,Gurugram,Home,Bedsheet,1,899.0,10,Credit Card,Desktop,Cancelled,899.0,809.1
+939,2025-10-10 04:21:00,1094,Male,44,Hyderabad,Home,Desk Lamp,1,699.0,0,Debit Card,Tablet,Delivered,699.0,699.0
+940,2025-04-18 18:24:00,1191,Female,58,Lucknow,Books,Business Strategy,1,599.0,10,UPI,Mobile,Delivered,599.0,539.1
+941,2025-04-09 22:28:00,1191,Female,58,Lucknow,Books,Python Basics,1,499.0,5,UPI,Mobile,Cancelled,499.0,474.04999999999995
+942,2025-10-01 23:09:00,1159,Other,52,Pune,Home,Desk Lamp,2,699.0,5,UPI,Mobile,Delivered,1398.0,1328.1
+943,2025-11-19 22:07:00,1141,Male,41,Lucknow,Home,Desk Lamp,3,699.0,15,Cash on Delivery,Mobile,Delivered,2097.0,1782.45
+944,2025-03-08 09:02:00,1135,Female,20,Delhi,Books,Python Basics,1,499.0,10,Net Banking,Mobile,Delivered,499.0,449.1
+945,2025-09-20 02:10:00,1178,Other,37,Bengaluru,Fashion,Jacket,1,1899.0,20,Cash on Delivery,Tablet,Delivered,1899.0,1519.2
+946,2025-04-05 00:10:00,1200,Other,56,Pune,Beauty,Sunscreen,2,499.0,5,Net Banking,Mobile,Delivered,998.0,948.0999999999999
+947,2025-05-13 09:54:00,1003,Male,26,Gurugram,Books,Fiction Novel,1,299.0,20,Credit Card,Desktop,Delivered,299.0,239.20000000000002
+948,2025-05-02 09:02:00,1142,Other,27,Bengaluru,Electronics,Smart Watch,1,2499.0,20,Credit Card,Desktop,Cancelled,2499.0,1999.2
+949,2025-10-01 03:00:00,1070,Female,51,Hyderabad,Electronics,Smart Watch,4,2499.0,5,Debit Card,Tablet,Delivered,9996.0,9496.199999999999
+950,2025-05-16 23:08:00,1095,Female,31,Bengaluru,Home,Mixer Grinder,3,2899.0,20,Cash on Delivery,Tablet,Delivered,8697.0,6957.6
+951,2025-04-01 08:01:00,1015,Female,24,Pune,Electronics,Bluetooth Speaker,1,1799.0,10,Net Banking,Tablet,Returned,1799.0,1619.1000000000001
+952,2025-05-12 20:40:00,1200,Other,56,Pune,Books,Python Basics,2,499.0,15,Net Banking,Tablet,Delivered,998.0,848.3
+953,2025-11-19 12:09:00,1114,Male,60,Pune,Fashion,Sneakers,1,2199.0,20,Cash on Delivery,Mobile,Delivered,2199.0,1759.2
+954,2025-09-11 05:29:00,1112,Other,55,Lucknow,Home,Bedsheet,3,899.0,0,Credit Card,Mobile,Delivered,2697.0,2697.0
+955,2025-04-01 12:43:00,1126,Other,53,Mumbai,Fashion,Sneakers,1,2199.0,5,Net Banking,Mobile,Delivered,2199.0,2089.0499999999997
+956,2025-02-21 23:33:00,1019,Other,36,Lucknow,Beauty,Moisturizer,1,399.0,15,Credit Card,Tablet,Delivered,399.0,339.15
+957,2025-02-26 00:48:00,1004,Other,52,Gurugram,Books,Python Basics,1,499.0,0,UPI,Mobile,Delivered,499.0,499.0
+958,2025-01-07 00:50:00,1022,Other,32,Mumbai,Home,Bedsheet,3,899.0,20,UPI,Tablet,Delivered,2697.0,2157.6
+959,2025-08-16 05:19:00,1087,Male,33,Jaipur,Electronics,Smart Watch,1,2499.0,20,Debit Card,Desktop,Delivered,2499.0,1999.2
+960,2025-01-11 01:06:00,1015,Female,24,Pune,Books,Business Strategy,2,599.0,0,Net Banking,Desktop,Delivered,1198.0,1198.0
+961,2025-01-13 07:27:00,1227,Other,60,Delhi,Beauty,Moisturizer,1,399.0,5,Cash on Delivery,Mobile,Delivered,399.0,379.04999999999995
+962,2025-09-09 05:07:00,1074,Other,32,Delhi,Fashion,Jacket,2,1899.0,0,Credit Card,Mobile,Cancelled,3798.0,3798.0
+963,2025-07-04 02:57:00,1073,Other,53,Jaipur,Home,Mixer Grinder,2,2899.0,0,UPI,Tablet,Delivered,5798.0,5798.0
+964,2025-03-18 21:43:00,1110,Other,56,Delhi,Books,Business Strategy,2,599.0,15,Debit Card,Tablet,Delivered,1198.0,1018.3
+965,2025-05-16 22:51:00,1090,Female,47,Jaipur,Electronics,Bluetooth Speaker,3,1799.0,10,UPI,Mobile,Delivered,5397.0,4857.3
+966,2025-09-02 02:07:00,1039,Male,53,Chandigarh,Fashion,Sneakers,1,2199.0,15,Net Banking,Desktop,Cancelled,2199.0,1869.1499999999999
+967,2025-04-04 12:22:00,1072,Male,39,Delhi,Fashion,T-Shirt,1,599.0,5,Debit Card,Desktop,Delivered,599.0,569.05
+968,2025-07-16 13:35:00,1178,Other,37,Bengaluru,Beauty,Shampoo,1,299.0,5,Cash on Delivery,Tablet,Delivered,299.0,284.05
+969,2025-08-04 16:36:00,1137,Male,46,Chandigarh,Books,Data Analytics,1,699.0,20,Credit Card,Tablet,Delivered,699.0,559.2
+970,2025-07-05 17:30:00,1093,Male,23,Jaipur,Electronics,Smart Watch,4,2499.0,0,Credit Card,Mobile,Delivered,9996.0,9996.0
+971,2025-10-10 13:15:00,1090,Female,47,Jaipur,Home,Bedsheet,1,899.0,5,Credit Card,Mobile,Delivered,899.0,854.05
+972,2025-08-06 11:03:00,1036,Male,59,Hyderabad,Electronics,Smart Watch,1,2499.0,0,UPI,Tablet,Delivered,2499.0,2499.0
+973,2025-03-14 02:15:00,1123,Female,28,Hyderabad,Books,Data Analytics,1,699.0,10,UPI,Mobile,Delivered,699.0,629.1
+974,2025-03-13 23:33:00,1209,Other,23,Rohtak,Beauty,Moisturizer,2,399.0,15,Debit Card,Desktop,Delivered,798.0,678.3
+975,2025-01-31 20:02:00,1087,Male,33,Jaipur,Beauty,Face Wash,1,249.0,5,Net Banking,Mobile,Delivered,249.0,236.54999999999998
+976,2025-10-11 22:53:00,1003,Male,26,Gurugram,Beauty,Sunscreen,2,499.0,15,Debit Card,Tablet,Delivered,998.0,848.3
+977,2025-02-17 16:24:00,1182,Female,46,Hyderabad,Fashion,Jacket,3,1899.0,10,Credit Card,Tablet,Delivered,5697.0,5127.3
+978,2025-11-06 02:52:00,1159,Other,52,Pune,Electronics,Smart Watch,1,2499.0,20,Cash on Delivery,Desktop,Delivered,2499.0,1999.2
+979,2025-11-28 13:12:00,1165,Male,42,Lucknow,Beauty,Sunscreen,1,499.0,10,Debit Card,Mobile,Delivered,499.0,449.1
+980,2025-03-25 17:06:00,1093,Male,23,Jaipur,Books,Business Strategy,1,599.0,10,UPI,Mobile,Delivered,599.0,539.1
+981,2025-05-04 08:05:00,1194,Other,18,Gurugram,Home,Bedsheet,2,899.0,0,Net Banking,Tablet,Delivered,1798.0,1798.0
+982,2025-06-08 00:22:00,1203,Male,48,Hyderabad,Beauty,Face Wash,1,249.0,0,Debit Card,Desktop,Delivered,249.0,249.0
+983,2025-06-19 13:57:00,1081,Female,33,Hyderabad,Beauty,Shampoo,4,299.0,0,Net Banking,Mobile,Delivered,1196.0,1196.0
+984,2025-09-02 18:55:00,1199,Female,60,Chandigarh,Fashion,T-Shirt,2,599.0,15,UPI,Desktop,Delivered,1198.0,1018.3
+985,2025-04-29 06:51:00,1175,Other,26,Jaipur,Beauty,Face Wash,3,249.0,0,Credit Card,Tablet,Delivered,747.0,747.0
+986,2025-06-23 09:23:00,1247,Other,42,Bengaluru,Books,Business Strategy,1,599.0,5,Net Banking,Desktop,Delivered,599.0,569.05
+987,2025-11-07 02:09:00,1183,Other,31,Chandigarh,Beauty,Moisturizer,1,399.0,20,Net Banking,Tablet,Returned,399.0,319.20000000000005
+988,2025-10-08 02:31:00,1025,Other,41,Rohtak,Electronics,Smart Watch,2,2499.0,10,UPI,Desktop,Delivered,4998.0,4498.2
+989,2025-07-06 11:05:00,1240,Male,48,Gurugram,Home,Bedsheet,1,899.0,20,UPI,Mobile,Delivered,899.0,719.2
+990,2025-11-29 04:07:00,1118,Male,47,Lucknow,Home,Storage Box,4,499.0,15,Net Banking,Desktop,Delivered,1996.0,1696.6
+991,2025-03-08 14:23:00,1220,Other,32,Hyderabad,Home,Storage Box,1,499.0,20,Net Banking,Tablet,Cancelled,499.0,399.20000000000005
+992,2025-01-22 19:41:00,1096,Male,28,Bengaluru,Electronics,Power Bank,1,999.0,10,UPI,Tablet,Delivered,999.0,899.1
+993,2025-05-29 12:10:00,1180,Female,31,Bengaluru,Books,Python Basics,1,499.0,0,Net Banking,Desktop,Delivered,499.0,499.0
+994,2025-08-27 14:41:00,1058,Other,18,Lucknow,Beauty,Sunscreen,2,499.0,10,Net Banking,Desktop,Delivered,998.0,898.2
+995,2025-07-25 10:04:00,1047,Other,47,Chandigarh,Electronics,Power Bank,2,999.0,5,Debit Card,Desktop,Returned,1998.0,1898.1
+996,2025-01-20 17:09:00,1125,Other,51,Delhi,Fashion,Jacket,1,1899.0,15,Cash on Delivery,Mobile,Delivered,1899.0,1614.1499999999999
+997,2025-02-01 11:50:00,1082,Female,30,Gurugram,Books,Python Basics,4,499.0,15,Cash on Delivery,Desktop,Delivered,1996.0,1696.6
+998,2025-02-12 04:04:00,1055,Other,37,Chandigarh,Electronics,Power Bank,1,999.0,5,Debit Card,Desktop,Delivered,999.0,949.05
+999,2025-04-05 01:05:00,1224,Other,28,Hyderabad,Beauty,Sunscreen,1,499.0,10,Cash on Delivery,Desktop,Returned,499.0,449.1
+1000,2025-09-04 15:34:00,1077,Female,22,Chandigarh,Fashion,Jeans,1,1299.0,15,Credit Card,Tablet,Delivered,1299.0,1104.1499999999999
